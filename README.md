@@ -22,7 +22,7 @@ If a new grid topology is used, make sure to check all files included in `main.j
 
 A Gurobi Optimization License is required for the simulation (free for academics: [Gurobi Academic Program](https://www.gurobi.com/academia/academic-program-and-licenses/)).
 
-After running the `main.jl` file, monthly results can be aggregated (create folder based on `Results/___Example_Folder`). The risk metrics can then be simulated (`analyse_risk_metrics.py`) to determine the frequency and severity of the price and volume risk. Additionally, `FB_domain.jl` provides a script for visualization of the FB domain per hour, and `create_graphs.py` provides a script for price duration curves and volume risk duration curves.
+After running the `main.jl` file, monthly results can be aggregated. The risk metrics can then be simulated (`analyse_risk_metrics.py`) to determine the frequency and severity of the price and volume risk. Additionally, `FB_domain.jl` provides a script for visualization of the FB domain per hour, and `create_graphs.py` provides a script for price duration curves and volume risk duration curves.
 
 ### References
 M. Kenis, E. Delarue, K. Bruninx, and F. Dominguez, "Off-shore Bidding Zones Under Flow-Based Market Coupling," 2023 IEEE Belgrade PowerTech, Belgrade, Serbia, 2023, pp. 1-6, doi: 10.1109/PowerTech55446.2023.10202755.
