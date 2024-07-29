@@ -1,0 +1,7 @@
+BranchID,Line,FromBus,ToBus,FromZone,ToZone,LineType
+321,2,43,119,1,4,DC
+324,5,68,120,3,4,DC
+325,6,46,124,2,4,DC
+301,10,37,39,1,2,DC
+126,11,68,47,3,2,DC
+187,12,24,25,3,1,DC
