@@ -1,0 +1,2953 @@
+Hour,Category,Curtailed MWh
+1,Zero-Price RES,477.790958215732
+2,Zero-Price RES,978.4885655795327
+3,Zero-Price RES,1014.3499995
+4,Zero-Price RES,1010.2300005
+5,Zero-Price RES,1997.2924623089448
+6,Zero-Price RES,2096.843030895778
+7,Zero-Price RES,2200.898029395778
+8,Zero-Price RES,2253.7130308957785
+9,Zero-Price RES,2280.3230293957786
+10,Zero-Price RES,2742.875
+11,Zero-Price RES,3334.0199985
+12,Zero-Price RES,3425.8350015000005
+13,Zero-Price RES,3447.7799985
+14,Zero-Price RES,3470.6550015
+15,Zero-Price RES,2993.6299984999996
+16,Zero-Price RES,3051.0049984999996
+17,Zero-Price RES,2504.799384259682
+18,Zero-Price RES,2559.609384259682
+19,Zero-Price RES,2603.679387259682
+20,Zero-Price RES,2751.308032395778
+21,Zero-Price RES,2509.629999
+22,Zero-Price RES,2515.509999
+23,Zero-Price RES,2786.2430308957787
+24,Zero-Price RES,2468.61
+25,Zero-Price RES,2667.803030895778
+26,Zero-Price RES,2505.140001
+27,Zero-Price RES,2543.709999
+28,Zero-Price RES,2543.109999
+29,Zero-Price RES,2526.81
+30,Zero-Price RES,2502.609999
+31,Zero-Price RES,3717.6130308957777
+32,Zero-Price RES,2583.084385759682
+33,Zero-Price RES,2697.458030895778
+34,Zero-Price RES,2458.460001
+35,Zero-Price RES,2650.358029395778
+36,Zero-Price RES,2422.44
+37,Zero-Price RES,2645.843030895778
+38,Zero-Price RES,3137.3149985
+39,Zero-Price RES,2667.5180323957784
+40,Zero-Price RES,2479.599999
+41,Zero-Price RES,2460.8119537717525
+42,Zero-Price RES,2410.3729250792635
+43,Zero-Price RES,2285.4461622929584
+44,Zero-Price RES,1257.4945499460214
+45,Zero-Price RES,2036.1516863891284
+46,Zero-Price RES,2103.638030895778
+47,Zero-Price RES,1007.228030895778
+48,Zero-Price RES,1936.0280298957782
+49,Zero-Price RES,1481.2068550831216
+50,Zero-Price RES,1340.0995448266253
+51,Zero-Price RES,1586.4769653563408
+52,Zero-Price RES,1646.5432099342015
+53,Zero-Price RES,1971.12
+54,Zero-Price RES,1872.5212184659147
+55,Zero-Price RES,1915.7727262947092
+56,Zero-Price RES,1974.260001
+57,Zero-Price RES,2304.4716785229716
+58,Zero-Price RES,1952.9035188741027
+59,Zero-Price RES,1700.414758007917
+60,Zero-Price RES,1461.4415324274335
+61,Zero-Price RES,1002.5699396719025
+62,Zero-Price RES,643.7181637125593
+63,Zero-Price RES,419.9749995
+64,Zero-Price RES,338.051351607906
+65,Zero-Price RES,1179.4253984787251
+66,Zero-Price RES,646.4630313957781
+67,Zero-Price RES,707.1380313957781
+68,Zero-Price RES,784.5830313957782
+69,Zero-Price RES,2267.2687706004385
+70,Zero-Price RES,1477.8127031288852
+71,Zero-Price RES,1514.424959302007
+72,Zero-Price RES,1869.258031895778
+73,Zero-Price RES,1481.8210160405
+74,Zero-Price RES,2257.897250607709
+75,Zero-Price RES,2118.3459361761243
+76,Zero-Price RES,2076.63921835531
+77,Zero-Price RES,2065.017954555672
+78,Zero-Price RES,1924.0419346162143
+79,Zero-Price RES,1752.6415173940718
+80,Zero-Price RES,1639.540268827496
+81,Zero-Price RES,1345.128031895778
+82,Zero-Price RES,647.0749995
+83,Zero-Price RES,585.54
+84,Zero-Price RES,524.415
+85,Zero-Price RES,188.7739645027576
+86,Zero-Price RES,463.2799995
+87,Zero-Price RES,453.2650005
+88,Zero-Price RES,0.0
+89,Zero-Price RES,211.6077086098385
+90,Zero-Price RES,81.99065686611982
+91,Zero-Price RES,115.30725166201682
+92,Zero-Price RES,225.76507093048716
+93,Zero-Price RES,402.751469562426
+94,Zero-Price RES,541.6250769661667
+95,Zero-Price RES,566.6259726756092
+96,Zero-Price RES,547.1721189116872
+97,Zero-Price RES,564.4283295127734
+98,Zero-Price RES,583.468030895778
+99,Zero-Price RES,1243.6680318957779
+100,Zero-Price RES,1265.728030895778
+101,Zero-Price RES,1262.088031895778
+102,Zero-Price RES,1244.2580298957778
+103,Zero-Price RES,594.6230313957782
+104,Zero-Price RES,567.0077640944928
+105,Zero-Price RES,498.8291618572079
+106,Zero-Price RES,0.0
+107,Zero-Price RES,253.7090131347037
+108,Zero-Price RES,228.41220331630257
+109,Zero-Price RES,539.9011625880972
+110,Zero-Price RES,0.0
+111,Price Convergence Low,0.0
+112,Zero-Price,0.0
+113,Price Convergence Low,0.0
+114,Zero-Price,0.0
+115,Zero-Price,0.0
+116,Zero-Price,0.0
+117,Zero-Price,0.0
+118,Price Convergence Low,0.0
+119,Zero-Price,0.0
+120,Price Convergence Low,0.0
+121,Zero-Price,0.0
+122,Price Convergence Low,0.0
+123,Zero-Price,0.0
+124,Zero-Price,0.0
+125,Zero-Price,0.0
+126,Price Convergence Low,0.0
+127,Zero-Price,0.0
+128,Zero-Price,0.0
+129,Zero-Price,0.0
+130,Price Convergence Low,0.0
+131,Price Convergence Low,0.0
+132,Price Convergence Low,0.0
+133,Price Convergence Low,0.0
+134,Price Convergence Low,0.0
+135,Price Convergence Low,0.0
+136,Zero-Price RES,0.0
+137,Zero-Price RES,819.6280308957781
+138,Zero-Price RES,835.6980303957781
+139,Zero-Price RES,826.068030395778
+140,Zero-Price RES,819.4880313957782
+141,Zero-Price RES,818.4430308957782
+142,Zero-Price RES,842.5480308957782
+143,Zero-Price RES,827.973030395778
+144,Zero-Price RES,766.823031395778
+145,Zero-Price RES,672.908031395778
+146,Zero-Price RES,0.0
+147,Zero-Price RES,371.4904624558801
+148,Zero-Price RES,146.48015891398632
+149,Zero-Price RES,122.25750591963516
+150,Zero-Price RES,277.19012983178027
+151,Zero-Price RES,578.0357640146125
+152,Zero-Price RES,0.0
+153,Zero-Price RES,59.78430479632726
+154,Zero-Price RES,1250.5245839191398
+155,Zero-Price RES,14.52697715518926
+156,Zero-Price RES,218.07819908918736
+157,Zero-Price RES,1596.4499990000004
+158,Zero-Price RES,1583.6599999999999
+159,Zero-Price RES,1125.743240474797
+160,Zero-Price RES,772.6714218298803
+161,Zero-Price RES,914.1164761282818
+162,Zero-Price RES,1031.093630570756
+163,Zero-Price RES,817.5752968594752
+164,Zero-Price RES,906.0117263546184
+165,Zero-Price RES,1193.8134706063236
+166,Zero-Price RES,2407.640001
+167,Zero-Price RES,2417.619999
+168,Zero-Price RES,2427.369999
+169,Zero-Price RES,2529.7893872596824
+170,Zero-Price RES,3072.5638589710607
+171,Zero-Price RES,3612.403030895778
+172,Zero-Price RES,3096.44
+173,Zero-Price RES,3046.4149985
+174,Zero-Price RES,3026.4199999999996
+175,Zero-Price RES,2964.8450015
+176,Zero-Price RES,2965.2799985
+177,Zero-Price RES,2324.4172992141434
+178,Zero-Price RES,2171.9667545043617
+179,Zero-Price RES,1945.5568047932275
+180,Zero-Price RES,1800.93
+181,Zero-Price RES,1499.5057616879467
+182,Zero-Price RES,1529.9988056734078
+183,Zero-Price RES,1535.8639712690633
+184,Zero-Price RES,1548.3180203610698
+185,Zero-Price RES,1536.5952599544453
+186,Zero-Price RES,1463.28313114116
+187,Zero-Price RES,1710.8296048450234
+188,Zero-Price RES,1829.12562478448
+189,Zero-Price RES,2251.9130308957783
+190,Zero-Price RES,2058.342310066823
+191,Zero-Price RES,2172.8654139401983
+192,Zero-Price RES,2176.463029395778
+193,Zero-Price RES,2317.133029395778
+194,Zero-Price RES,2344.370854444186
+195,Zero-Price RES,3573.3130293957784
+196,Zero-Price RES,3318.0757807864156
+197,Zero-Price RES,2554.610001
+198,Zero-Price RES,2295.113030895778
+199,Zero-Price RES,2057.6132702564096
+200,Zero-Price RES,2043.9230308957779
+201,Zero-Price RES,2018.229999
+202,Zero-Price RES,2015.13
+203,Zero-Price RES,2150.6480323957785
+204,Zero-Price RES,2598.863030895778
+205,Zero-Price RES,2761.943030895778
+206,Zero-Price RES,2739.8930308957783
+207,Zero-Price RES,2700.2930308957784
+208,Zero-Price RES,2642.9930323957783
+209,Zero-Price RES,2409.909999
+210,Zero-Price RES,2364.3398134909676
+211,Zero-Price RES,2334.8323237835207
+212,Zero-Price RES,2579.183032395778
+213,Zero-Price RES,2591.738032395778
+214,Zero-Price RES,2623.373032395778
+215,Zero-Price RES,2511.12
+216,Zero-Price RES,2759.936759676465
+217,Zero-Price RES,2695.044385759682
+218,Zero-Price RES,2688.654385759682
+219,Zero-Price RES,2677.5993842596818
+220,Zero-Price RES,2654.574387259682
+221,Zero-Price RES,2646.129385759682
+222,Zero-Price RES,2726.9427115726726
+223,Zero-Price RES,2546.079999
+224,Zero-Price RES,2550.339999
+225,Zero-Price RES,2099.25
+226,Zero-Price RES,1597.4600010000001
+227,Zero-Price RES,1575.7700009999999
+228,Zero-Price RES,1864.760001
+229,Zero-Price RES,2510.6330293957785
+230,Zero-Price RES,2551.010001
+231,Zero-Price RES,2551.1099999999997
+232,Zero-Price RES,2544.410001
+233,Zero-Price RES,2543.13
+234,Zero-Price RES,2536.550001
+235,Zero-Price RES,1808.858879896943
+236,Zero-Price RES,2522.22
+237,Zero-Price RES,2505.57
+238,Zero-Price RES,2485.959999
+239,Zero-Price RES,2440.3085078970626
+240,Zero-Price RES,2487.27
+241,Zero-Price RES,2488.190001
+242,Zero-Price RES,2704.193032395778
+243,Zero-Price RES,2711.6930293957776
+244,Zero-Price RES,2731.343030895778
+245,Zero-Price RES,2500.11
+246,Zero-Price RES,2507.91
+247,Zero-Price RES,2513.31
+248,Zero-Price RES,2519.510001
+249,Zero-Price RES,2781.5930323957778
+250,Zero-Price RES,2521.809999
+251,Zero-Price RES,2790.1430323957784
+252,Zero-Price RES,3266.135
+253,Zero-Price RES,2774.093030895778
+254,Zero-Price RES,2576.287164116299
+255,Zero-Price RES,2488.809999
+256,Zero-Price RES,2470.010001
+257,Zero-Price RES,2459.31
+258,Zero-Price RES,2462.61
+259,Zero-Price RES,2468.409999
+260,Zero-Price RES,2416.408617514395
+261,Zero-Price RES,2693.093030895778
+262,Zero-Price RES,2464.610001
+263,Zero-Price RES,2693.8430323957778
+264,Zero-Price RES,2686.6430323957784
+265,Zero-Price RES,2566.944384259682
+266,Zero-Price RES,2556.4293872596822
+267,Zero-Price RES,2568.654384259682
+268,Zero-Price RES,2586.0393872596824
+269,Zero-Price RES,2607.5943872596818
+270,Zero-Price RES,2642.6343842596816
+271,Zero-Price RES,2520.909999
+272,Zero-Price RES,2531.31
+273,Zero-Price RES,2539.509999
+274,Zero-Price RES,2546.109999
+275,Zero-Price RES,2549.649294020654
+276,Zero-Price RES,2554.310001
+277,Zero-Price RES,2554.1099999999997
+278,Zero-Price RES,2547.710001
+279,Zero-Price RES,2539.209999
+280,Zero-Price RES,2529.009999
+281,Zero-Price RES,2751.293029395778
+282,Zero-Price RES,2712.443030895778
+283,Zero-Price RES,2459.7099989999997
+284,Zero-Price RES,2670.593030895778
+285,Zero-Price RES,2666.123032395778
+286,Zero-Price RES,2668.748030895778
+287,Zero-Price RES,2576.108029395778
+288,Zero-Price RES,2509.298032395778
+289,Zero-Price RES,2343.279385759682
+290,Zero-Price RES,2325.804387259682
+291,Zero-Price RES,2426.844385759682
+292,Zero-Price RES,2633.619385759682
+293,Zero-Price RES,2679.219384259682
+294,Zero-Price RES,2649.879384259682
+295,Zero-Price RES,2452.299999
+296,Zero-Price RES,2541.4880308957777
+297,Zero-Price RES,2399.573029395778
+298,Zero-Price RES,2102.630001
+299,Zero-Price RES,1907.8477250686428
+300,Zero-Price RES,1764.6149520093359
+301,Zero-Price RES,1676.7869018574202
+302,Zero-Price RES,1674.479970309003
+303,Zero-Price RES,1679.8016757969067
+304,Zero-Price RES,1665.134560253317
+305,Zero-Price RES,1207.3157814789952
+306,Zero-Price RES,1228.917083969274
+307,Zero-Price RES,1548.051388597451
+308,Zero-Price RES,2058.687244541103
+309,Zero-Price RES,2121.828236771208
+310,Zero-Price RES,2139.553514507197
+311,Zero-Price RES,1881.6388027330177
+312,Zero-Price RES,2015.353740709982
+313,Zero-Price RES,1892.8475542066813
+314,Zero-Price RES,1791.4349151104516
+315,Zero-Price RES,1937.5589653023078
+316,Zero-Price RES,2220.593030895778
+317,Zero-Price RES,2304.279384259682
+318,Zero-Price RES,2387.34
+319,Zero-Price RES,2416.670001
+320,Zero-Price RES,2385.890001
+321,Zero-Price RES,2284.269999
+322,Zero-Price RES,2254.073030895778
+323,Zero-Price RES,2141.876441612717
+324,Zero-Price RES,2086.012400943938
+325,Zero-Price RES,2704.0700015
+326,Zero-Price RES,2752.055
+327,Zero-Price RES,2129.2912872690044
+328,Zero-Price RES,2038.220001
+329,Zero-Price RES,1739.0550956652346
+330,Zero-Price RES,1909.2132169152196
+331,Zero-Price RES,2310.548030895778
+332,Zero-Price RES,1959.5483948437873
+333,Zero-Price RES,2327.9780293957783
+334,Zero-Price RES,2445.338029395778
+335,Zero-Price RES,2553.7880293957783
+336,Zero-Price RES,2422.119999
+337,Zero-Price RES,2574.819384259682
+338,Zero-Price RES,3698.3230293957777
+339,Zero-Price RES,2203.9280323957782
+340,Zero-Price RES,2111.348029395778
+341,Zero-Price RES,3129.1950015
+342,Zero-Price RES,3142.6349984999997
+343,Zero-Price RES,3818.728030895778
+344,Zero-Price RES,2555.510001
+345,Zero-Price RES,3802.5130323957783
+346,Zero-Price RES,3759.9130308957774
+347,Zero-Price RES,2609.5213997106916
+348,Zero-Price RES,2565.3169466565814
+349,Zero-Price RES,2453.061378570001
+350,Zero-Price RES,2573.543029395778
+351,Zero-Price RES,2481.6156303427906
+352,Zero-Price RES,2588.093032395778
+353,Zero-Price RES,2561.7843872596823
+354,Zero-Price RES,2505.009999
+355,Zero-Price RES,2527.010001
+356,Zero-Price RES,2523.009999
+357,Zero-Price RES,2517.609999
+358,Zero-Price RES,2525.2100010000004
+359,Zero-Price RES,2537.409999
+360,Zero-Price RES,2542.310001
+361,Zero-Price RES,2539.310001
+362,Zero-Price RES,2530.610001
+363,Zero-Price RES,2517.51
+364,Zero-Price RES,2496.410001
+365,Zero-Price RES,2458.310001
+366,Zero-Price RES,2406.18
+367,Zero-Price RES,2207.075284526563
+368,Zero-Price RES,485.4400145005594
+369,Zero-Price RES,272.35029199331905
+370,Zero-Price RES,79.74905732625939
+371,Zero-Price RES,824.4483864365221
+372,Zero-Price RES,692.1693391275576
+373,Zero-Price RES,0.0
+374,Zero-Price RES,518.2857019427595
+375,Price Convergence Low,0.0
+376,Price Convergence Low,0.0
+377,Price Convergence Low,0.0
+378,Price Convergence Low,0.0
+379,Zero-Price,0.0
+380,Price Convergence Low,0.0
+381,Price Convergence Low,0.0
+382,Price Convergence Low,0.0
+383,Price Convergence Low,0.0
+384,Price Convergence Low,0.0
+385,Price Convergence Low,0.0
+386,Price Convergence Low,0.0
+387,Price Convergence Low,0.0
+388,Price Convergence Low,0.0
+389,Price Convergence Low,0.0
+390,Price Convergence Low,0.0
+391,Price Convergence Low,0.0
+392,Price Convergence Low,0.0
+393,Price Convergence Low,0.0
+394,Price Convergence Low,0.0
+395,Zero-Price RES,146.04925252812882
+396,Zero-Price RES,0.0
+397,Zero-Price RES,0.0
+398,Zero-Price RES,1471.8500000000004
+399,Zero-Price RES,1579.8799999999994
+400,Zero-Price RES,919.8577247298646
+401,Zero-Price RES,849.0769178165475
+402,Zero-Price RES,404.68288862405836
+403,Zero-Price RES,789.2372613407701
+404,Zero-Price RES,262.6572014757627
+405,Zero-Price RES,47.41794988921583
+406,Zero-Price RES,903.288030395778
+407,Zero-Price RES,844.183030895778
+408,Zero-Price RES,0.0
+409,Zero-Price RES,678.0680313957781
+410,Zero-Price RES,616.523031395778
+411,Zero-Price RES,516.7003039268302
+412,Zero-Price RES,429.1809777422145
+413,Zero-Price RES,377.3098680110583
+414,Zero-Price RES,342.89374378153536
+415,Zero-Price,0.0
+416,Price Convergence Low,0.0
+417,Price Convergence Low,0.0
+418,Zero-Price,0.0
+419,Zero-Price,0.0
+420,Price Convergence Low,0.0
+421,Zero-Price,0.0
+422,Price Convergence Middle,0.0
+423,Zero-Price,0.0
+424,Price Convergence Low,0.0
+425,Zero-Price,0.0
+426,Price Convergence Low,0.0
+427,Zero-Price,0.0
+428,Price Convergence Low,0.0
+429,Zero-Price,0.0
+430,Price Convergence Low,0.0
+431,Zero-Price,0.0
+432,Zero-Price,0.0
+433,Price Convergence Low,0.0
+434,Price Convergence Low,0.0
+435,Price Convergence Low,0.0
+436,Zero-Price,0.0
+437,Zero-Price,0.0
+438,Zero-Price,0.0
+439,Price Convergence Low,0.0
+440,Zero-Price,0.0
+441,Zero-Price,0.0
+442,Price Convergence Low,0.0
+443,Zero-Price,0.0
+444,Price Convergence Low,0.0
+445,Price Convergence Low,0.0
+446,Price Convergence Low,0.0
+447,Zero-Price,0.0
+448,Price Convergence Low,0.0
+449,Zero-Price,0.0
+450,Price Convergence Middle,0.0
+451,Price Convergence Middle,0.0
+452,Price Convergence Middle,0.0
+453,Zero-Price,0.0
+454,Zero-Price,0.0
+455,Price Convergence Low,0.0
+456,Price Convergence Low,0.0
+457,Price Convergence Low,0.0
+458,Price Convergence Low,0.0
+459,Price Convergence Low,0.0
+460,Zero-Price,0.0
+461,Zero-Price,0.0
+462,Zero-Price,0.0
+463,Zero-Price,0.0
+464,Price Convergence High,0.0
+465,Price Convergence Middle,0.0
+466,Zero-Price,0.0
+467,Price Convergence Low,0.0
+468,Zero-Price,0.0
+469,Price Convergence Middle,0.0
+470,Zero-Price,0.0
+471,Zero-Price,0.0
+472,Zero-Price,0.0
+473,Price Convergence Low,0.0
+474,Price Convergence Low,0.0
+475,Price Convergence Low,0.0
+476,Zero-Price,0.0
+477,Zero-Price,0.0
+478,Zero-Price,0.0
+479,Zero-Price,0.0
+480,Price Convergence Low,0.0
+481,Zero-Price,0.0
+482,Price Convergence Low,0.0
+483,Zero-Price,0.0
+484,Zero-Price,0.0
+485,Zero-Price,0.0
+486,Zero-Price,0.0
+487,Price Convergence Low,0.0
+488,Zero-Price,0.0
+489,Zero-Price,0.0
+490,Zero-Price,0.0
+491,Zero-Price,0.0
+492,Price Convergence Middle,0.0
+493,Price Convergence Middle,0.0
+494,Price Convergence Middle,0.0
+495,Price Convergence Low,0.0
+496,Zero-Price,0.0
+497,Price Convergence Low,0.0
+498,Price Convergence Low,0.0
+499,Zero-Price,0.0
+500,Zero-Price,0.0
+501,Price Convergence Low,0.0
+502,Zero-Price,0.0
+503,Zero-Price,0.0
+504,Zero-Price,0.0
+505,Price Convergence Low,0.0
+506,Price Convergence Low,0.0
+507,Zero-Price,0.0
+508,Zero-Price,0.0
+509,Zero-Price,0.0
+510,Price Convergence Low,0.0
+511,Price Convergence Low,0.0
+512,Zero-Price,0.0
+513,Price Convergence Low,0.0
+514,Price Convergence Low,0.0
+515,Zero-Price,0.0
+516,Price Convergence Low,0.0
+517,Zero-Price,0.0
+518,Zero-Price,0.0
+519,Zero-Price,0.0
+520,Zero-Price,0.0
+521,Zero-Price,0.0
+522,Price Convergence Low,0.0
+523,Zero-Price,0.0
+524,Zero-Price,0.0
+525,Price Convergence Low,0.0
+526,Price Convergence Low,0.0
+527,Zero-Price,0.0
+528,Zero-Price,0.0
+529,Price Convergence Low,0.0
+530,Price Convergence Low,0.0
+531,Zero-Price,0.0
+532,Price Convergence Low,0.0
+533,Zero-Price,0.0
+534,Price Convergence Low,0.0
+535,Price Convergence Low,0.0
+536,Price Convergence Middle,0.0
+537,Zero-Price,0.0
+538,Price Convergence Low,0.0
+539,Zero-Price,0.0
+540,Price Convergence Low,0.0
+541,Price Convergence Low,0.0
+542,Price Convergence Low,0.0
+543,Price Convergence Low,0.0
+544,Price Convergence Low,0.0
+545,Price Convergence Low,0.0
+546,Price Convergence Low,0.0
+547,Price Convergence Low,0.0
+548,Price Convergence Low,0.0
+549,Other Price Formation,0.0
+550,Zero-Price RES,222.2727459945253
+551,Zero-Price RES,904.5806223843304
+552,Zero-Price RES,923.7321994322332
+553,Zero-Price RES,880.0310662087754
+554,Zero-Price RES,1143.1965371155457
+555,Zero-Price RES,1311.83499070777
+556,Zero-Price RES,1272.0658296188112
+557,Zero-Price RES,730.1539229366679
+558,Zero-Price RES,608.8537854194192
+559,Zero-Price RES,202.2341312246288
+560,Zero-Price RES,471.16553218704377
+561,Zero-Price RES,581.6237388680102
+562,Zero-Price RES,767.145166952609
+563,Zero-Price RES,684.1735407176657
+564,Zero-Price RES,971.7146884093981
+565,Zero-Price RES,916.4809813615848
+566,Zero-Price RES,753.7084558390732
+567,Zero-Price,720.9042875863189
+568,Zero-Price RES,287.0253518583263
+569,Zero-Price RES,143.43291159018088
+570,Zero-Price RES,0.0
+571,Price Convergence Low,0.0
+572,Price Convergence Low,0.0
+573,Price Convergence Low,0.0
+574,Price Convergence Low,0.0
+575,Zero-Price RES,0.0
+576,Zero-Price RES,765.8580303957782
+577,Zero-Price RES,727.1980308957781
+578,Zero-Price RES,680.7230313957781
+579,Zero-Price RES,629.6130303957781
+580,Zero-Price RES,484.00300428821777
+581,Zero-Price RES,329.3837249588803
+582,Zero-Price,0.0
+583,Zero-Price,0.0
+584,Price Convergence Low,0.0
+585,Price Convergence Low,0.0
+586,Zero-Price,0.0
+587,Price Convergence Low,0.0
+588,Zero-Price,0.0
+589,Zero-Price,0.0
+590,Price Convergence Low,0.0
+591,Price Convergence Low,0.0
+592,Zero-Price,0.0
+593,Price Convergence Low,0.0
+594,Price Convergence Low,0.0
+595,Price Convergence Low,0.0
+596,Price Convergence Low,0.0
+597,Price Convergence Low,0.0
+598,Price Convergence Low,0.0
+599,Price Convergence Low,0.0
+600,Price Convergence Low,0.0
+601,Price Convergence Low,0.0
+602,Price Convergence Low,0.0
+603,Zero-Price RES,0.0
+604,Zero-Price RES,0.0
+605,Zero-Price RES,0.0
+606,Zero-Price RES,764.9030313957782
+607,Zero-Price RES,0.0
+608,Zero-Price RES,0.0
+609,Zero-Price RES,856.148031395778
+610,Zero-Price RES,858.6080313957781
+611,Zero-Price RES,854.2280313957782
+612,Zero-Price RES,928.713030395778
+613,Zero-Price RES,969.388030895778
+614,Zero-Price RES,849.8534444757333
+615,Zero-Price RES,532.2419316494585
+616,Zero-Price RES,501.8216356573315
+617,Zero-Price RES,893.3398616379653
+618,Zero-Price RES,933.4836796028522
+619,Zero-Price RES,901.8043156192022
+620,Zero-Price RES,486.8946310108464
+621,Zero-Price RES,942.700710315311
+622,Zero-Price RES,460.0483090126562
+623,Zero-Price RES,821.8806243843303
+624,Zero-Price RES,822.8742052220981
+625,Zero-Price RES,1845.3897291748885
+626,Zero-Price RES,1718.1237460344655
+627,Zero-Price RES,1558.139008294164
+628,Zero-Price RES,1323.158821032685
+629,Zero-Price RES,2107.1909053438458
+630,Zero-Price RES,1966.4732903135887
+631,Zero-Price RES,1939.8724927681892
+632,Zero-Price RES,809.8730313957782
+633,Zero-Price RES,779.3680308957781
+634,Zero-Price RES,728.468031395778
+635,Zero-Price RES,0.0
+636,Zero-Price RES,481.5595658485788
+637,Zero-Price RES,386.9214449964527
+638,Zero-Price RES,265.1805482870109
+639,Zero-Price RES,143.78102575611524
+640,Zero-Price,0.0
+641,Zero-Price,0.0
+642,Price Convergence Low,0.0
+643,Price Convergence Low,0.0
+644,Price Convergence Low,0.0
+645,Zero-Price,0.0
+646,Price Convergence Low,0.0
+647,Price Convergence Low,0.0
+648,Price Convergence Low,0.0
+649,Zero-Price RES,824.083030895778
+650,Zero-Price RES,322.9634310738407
+651,Zero-Price RES,612.5351498637864
+652,Zero-Price RES,868.272598373919
+653,Zero-Price RES,726.7059389005093
+654,Zero-Price RES,1060.1016270643604
+655,Zero-Price RES,1395.2906700897606
+656,Zero-Price RES,2326.62
+657,Zero-Price RES,2649.773029395778
+658,Zero-Price RES,2723.723032395778
+659,Zero-Price RES,2670.984384259682
+660,Zero-Price RES,3175.4071958566115
+661,Zero-Price RES,2833.808030895778
+662,Zero-Price RES,2538.339999
+663,Zero-Price RES,2509.209999
+664,Zero-Price RES,2505.009999
+665,Zero-Price RES,2517.410001
+666,Zero-Price RES,2525.2100010000004
+667,Zero-Price RES,2517.410001
+668,Zero-Price RES,2510.109999
+669,Zero-Price RES,2502.410001
+670,Zero-Price RES,2494.910001
+671,Zero-Price RES,2493.309999
+672,Zero-Price RES,2498.91
+673,Zero-Price RES,2500.910001
+674,Zero-Price RES,2632.584385759682
+675,Zero-Price RES,2489.7099989999997
+676,Zero-Price RES,2607.834385759682
+677,Zero-Price RES,2592.534385759682
+678,Zero-Price RES,3146.19958591839
+679,Zero-Price RES,3120.99411895881
+680,Zero-Price RES,3017.9099754747085
+681,Zero-Price RES,2369.25
+682,Zero-Price RES,3540.4799985
+683,Zero-Price RES,2348.559999
+684,Zero-Price RES,2974.0400000000004
+685,Zero-Price RES,2356.7193872596818
+686,Zero-Price RES,2285.150001
+687,Zero-Price RES,2747.2700014999996
+688,Zero-Price RES,1960.6150247072555
+689,Zero-Price RES,1589.0857014227893
+690,Zero-Price RES,0.0
+691,Zero-Price RES,519.0723406455162
+692,Zero-Price RES,447.12960279744095
+693,Zero-Price RES,429.43035670364
+694,Zero-Price RES,439.5733937141943
+695,Zero-Price RES,439.2584196666252
+696,Zero-Price RES,0.0
+697,Zero-Price RES,0.0
+698,Zero-Price RES,379.9111976328708
+699,Zero-Price RES,0.0
+700,Zero-Price,0.0
+701,Price Convergence Low,0.0
+702,Price Convergence Middle,0.0
+703,Price Convergence Low,0.0
+704,Price Convergence High,0.0
+705,Zero-Price,0.0
+706,Zero-Price,0.0
+707,Zero-Price,0.0
+708,Zero-Price,0.0
+709,Price Convergence Low,0.0
+710,Price Convergence Low,0.0
+711,Price Convergence Low,0.0
+712,Price Convergence Low,0.0
+713,Price Convergence Low,0.0
+714,Price Convergence Low,0.0
+715,Price Convergence Low,0.0
+716,Price Convergence Low,0.0
+717,Price Convergence Low,0.0
+718,Price Convergence Low,0.0
+719,Price Convergence Low,0.0
+720,Price Convergence Low,0.0
+721,Zero-Price,0.0
+722,Zero-Price,0.0
+723,Zero-Price,0.0
+724,Zero-Price,0.0
+725,Price Convergence Low,0.0
+726,Price Convergence Low,0.0
+727,Price Convergence Low,0.0
+728,Zero-Price,0.0
+729,Price Convergence Low,0.0
+730,Zero-Price,0.0
+731,Price Convergence Low,0.0
+732,Price Convergence Low,0.0
+733,Zero-Price,0.0
+734,Price Convergence Low,0.0
+735,Zero-Price,0.0
+736,Price Convergence Low,0.0
+737,Price Convergence Low,0.0
+738,Price Convergence Low,0.0
+739,Zero-Price,0.0
+740,Price Convergence Low,0.0
+741,Zero-Price,0.0
+742,Price Convergence Low,0.0
+743,Price Convergence Low,0.0
+744,Price Convergence Low,0.0
+745,Zero-Price RES,2643.5643857596815
+746,Zero-Price RES,2638.989384259682
+747,Zero-Price RES,2642.244387259682
+748,Zero-Price RES,2638.4643872596816
+749,Zero-Price RES,3720.808030895778
+750,Zero-Price RES,2472.5199989999996
+751,Zero-Price RES,2552.649387259682
+752,Zero-Price RES,2640.923032395778
+753,Zero-Price RES,2630.978032395778
+754,Zero-Price RES,2428.35
+755,Zero-Price RES,2455.77
+756,Zero-Price RES,3693.2700015
+757,Zero-Price RES,3675.6300014999997
+758,Zero-Price RES,3635.3399985
+759,Zero-Price RES,3566.2649985
+760,Zero-Price RES,3500.5499999999997
+761,Zero-Price RES,2340.5125424593202
+762,Zero-Price RES,2308.250001
+763,Zero-Price RES,2313.830001
+764,Zero-Price RES,2313.069999
+765,Zero-Price RES,2334.110001
+766,Zero-Price RES,2351.019999
+767,Zero-Price RES,2346.590001
+768,Zero-Price RES,2347.149999
+769,Zero-Price RES,3456.703030895778
+770,Zero-Price RES,2537.3255672592627
+771,Zero-Price RES,2203.2230308957783
+772,Zero-Price RES,2147.408032395778
+773,Zero-Price RES,2255.903032395778
+774,Zero-Price RES,2387.7680308957783
+775,Zero-Price RES,2317.02
+776,Zero-Price RES,3472.3350000000005
+777,Zero-Price RES,2809.88
+778,Zero-Price RES,2579.1799985
+779,Zero-Price RES,2806.425
+780,Zero-Price RES,2558.7
+781,Zero-Price RES,2360.295
+782,Zero-Price RES,2199.15
+783,Zero-Price RES,2080.7400015
+784,Zero-Price RES,1449.621682163062
+785,Zero-Price RES,621.0949995
+786,Zero-Price RES,1274.175751981251
+787,Zero-Price RES,1127.618029895778
+788,Zero-Price RES,1073.838031895778
+789,Zero-Price RES,0.0
+790,Zero-Price RES,196.2337016695751
+791,Zero-Price RES,99.74444878287318
+792,Zero-Price RES,37.02279338923552
+793,Other Price Formation,0.0
+794,Zero-Price RES,0.0
+795,Zero-Price RES,0.0
+796,Zero-Price RES,0.0
+797,Zero-Price RES,0.0
+798,Price Convergence Middle,0.0
+799,Zero-Price,0.0
+800,Zero-Price,0.0
+801,Zero-Price,0.0
+802,Zero-Price,0.0
+803,Price Convergence Low,0.0
+804,Zero-Price,0.0
+805,Zero-Price,0.0
+806,Zero-Price,0.0
+807,Price Convergence Low,0.0
+808,Zero-Price,0.0
+809,Price Convergence Low,0.0
+810,Zero-Price,0.0
+811,Zero-Price,0.0
+812,Price Convergence Low,0.0
+813,Zero-Price,0.0
+814,Price Convergence Low,0.0
+815,Zero-Price,0.0
+816,Price Convergence Low,0.0
+817,Zero-Price,0.0
+818,Price Convergence Low,0.0
+819,Price Convergence Low,0.0
+820,Zero-Price,0.0
+821,Price Convergence Low,0.0
+822,Price Convergence Low,0.0
+823,Zero-Price,0.0
+824,Price Convergence Low,0.0
+825,Zero-Price,0.0
+826,Zero-Price,0.0
+827,Zero-Price,0.0
+828,Price Convergence Low,0.0
+829,Price Convergence Low,0.0
+830,Price Convergence Low,0.0
+831,Price Convergence Low,0.0
+832,Zero-Price RES,168.58373991916952
+833,Price Convergence Low,0.0
+834,Price Convergence Low,0.0
+835,Zero-Price,0.0
+836,Zero-Price,0.0
+837,Price Convergence Low,0.0
+838,Zero-Price,0.0
+839,Price Convergence Low,0.0
+840,Price Convergence Low,0.0
+841,Price Convergence Low,0.0
+842,Zero-Price,0.0
+843,Zero-Price,0.0
+844,Price Convergence Low,0.0
+845,Zero-Price,0.0
+846,Price Convergence Low,0.0
+847,Price Convergence Low,0.0
+848,Price Convergence Middle,0.0
+849,Price Convergence Middle,0.0
+850,Price Convergence Middle,0.0
+851,Zero-Price RES,0.0
+852,Price Convergence Middle,0.0
+853,Zero-Price,0.0
+854,Price Convergence Middle,0.0
+855,Zero-Price,0.0
+856,Zero-Price,0.0
+857,Price Convergence Low,0.0
+858,Price Convergence Low,0.0
+859,Price Convergence Low,0.0
+860,Price Convergence Low,0.0
+861,Price Convergence Low,0.0
+862,Zero-Price,0.0
+863,Zero-Price,0.0
+864,Zero-Price,0.0
+865,Zero-Price,0.0
+866,Zero-Price,0.0
+867,Zero-Price,0.0
+868,Price Convergence Low,0.0
+869,Zero-Price,0.0
+870,Price Convergence Low,0.0
+871,Zero-Price,0.0
+872,Zero-Price,0.0
+873,Price Convergence Low,0.0
+874,Price Convergence Low,0.0
+875,Price Convergence Low,0.0
+876,Price Convergence Low,0.0
+877,Zero-Price,0.0
+878,Price Convergence Low,0.0
+879,Price Convergence Low,0.0
+880,Zero-Price,0.0
+881,Zero-Price,0.0
+882,Price Convergence Low,0.0
+883,Zero-Price,0.0
+884,Price Convergence Low,0.0
+885,Price Convergence Low,0.0
+886,Price Convergence Low,0.0
+887,Zero-Price,0.0
+888,Zero-Price,0.0
+889,Price Convergence Low,0.0
+890,Zero-Price,0.0
+891,Zero-Price,0.0
+892,Zero-Price,0.0
+893,Zero-Price,0.0
+894,Zero-Price,0.0
+895,Zero-Price,0.0
+896,Price Convergence Low,0.0
+897,Zero-Price RES,0.0
+898,Zero-Price RES,0.0
+899,Zero-Price RES,0.0
+900,Zero-Price RES,46.66927022794584
+901,Zero-Price RES,74.86927689440165
+902,Zero-Price RES,347.6749995
+903,Zero-Price RES,13.684743648639824
+904,Zero-Price RES,279.0400005
+905,Zero-Price RES,131.6264559463782
+906,Zero-Price,0.0
+907,Zero-Price,0.0
+908,Zero-Price,0.0
+909,Price Convergence Middle,0.0
+910,Price Convergence Middle,0.0
+911,Zero-Price,0.0
+912,Price Convergence Middle,0.0
+913,Zero-Price,0.0
+914,Price Convergence Middle,0.0
+915,Zero-Price,0.0
+916,Price Convergence Middle,0.0
+917,Zero-Price,0.0
+918,Price Convergence Middle,0.0
+919,Zero-Price,0.0
+920,Zero-Price,0.0
+921,Price Convergence Middle,0.0
+922,Price Convergence Middle,0.0
+923,Zero-Price RES,0.0
+924,Price Convergence Middle,0.0
+925,Price Convergence Middle,0.0
+926,Zero-Price,0.0
+927,Price Convergence Middle,0.0
+928,Zero-Price,0.0
+929,Zero-Price,0.0
+930,Zero-Price,0.0
+931,Zero-Price,0.0
+932,Price Convergence Low,0.0
+933,Zero-Price,0.0
+934,Price Convergence Low,0.0
+935,Zero-Price,0.0
+936,Zero-Price,0.0
+937,Zero-Price,0.0
+938,Zero-Price,0.0
+939,Zero-Price,0.0
+940,Zero-Price,0.0
+941,Zero-Price,0.0
+942,Zero-Price,0.0
+943,Zero-Price,0.0
+944,Zero-Price,0.0
+945,Price Convergence Middle,0.0
+946,Zero-Price RES,5.88
+947,Zero-Price RES,5.58
+948,Zero-Price RES,0.0
+949,Zero-Price RES,6.51
+950,Zero-Price RES,5.445
+951,Zero-Price RES,8.415000000000001
+952,Zero-Price RES,13.305
+953,Price Convergence Middle,0.0
+954,Zero-Price,0.0
+955,Zero-Price,0.0
+956,Price Convergence Low,0.0
+957,Zero-Price,0.0
+958,Price Convergence Low,0.0
+959,Zero-Price,0.0
+960,Zero-Price,0.0
+961,Zero-Price,0.0
+962,Price Convergence Low,0.0
+963,Price Convergence Low,0.0
+964,Price Convergence Low,0.0
+965,Price Convergence Low,0.0
+966,Price Convergence Low,0.0
+967,Zero-Price,0.0
+968,Price Convergence Middle,0.0
+969,Price Convergence Middle,0.0
+970,Zero-Price RES,0.0
+971,Price Convergence Middle,0.0
+972,Zero-Price RES,0.0
+973,Zero-Price RES,0.0
+974,Price Convergence Middle,0.0
+975,Price Convergence Middle,0.0
+976,Zero-Price,0.0
+977,Price Convergence Low,0.0
+978,Price Convergence Low,0.0
+979,Zero-Price,0.0
+980,Price Convergence Low,0.0
+981,Price Convergence Low,0.0
+982,Price Convergence Low,0.0
+983,Zero-Price,0.0
+984,Zero-Price RES,134.2264972684893
+985,Zero-Price RES,477.4600005
+986,Zero-Price RES,186.7218853580529
+987,Zero-Price RES,442.2021165850216
+988,Zero-Price RES,436.3688906043881
+989,Zero-Price RES,0.0
+990,Zero-Price RES,0.0
+991,Zero-Price RES,699.5380308957779
+992,Zero-Price RES,572.259739873769
+993,Zero-Price RES,883.0108996479194
+994,Zero-Price RES,1562.5799989999996
+995,Zero-Price RES,2789.495
+996,Zero-Price RES,2908.9849985
+997,Zero-Price RES,3037.5650015
+998,Zero-Price RES,2506.223029395778
+999,Zero-Price RES,2178.9880110179265
+1000,Zero-Price RES,1805.109999
+1001,Zero-Price RES,1048.4919449622782
+1002,Zero-Price RES,959.8834389098772
+1003,Zero-Price RES,729.0838261352592
+1004,Zero-Price RES,441.79122613525954
+1005,Zero-Price RES,355.92996312433286
+1006,Zero-Price RES,509.7042170557596
+1007,Zero-Price RES,599.9530308957782
+1008,Zero-Price RES,637.928031395778
+1009,Zero-Price RES,658.8880308957781
+1010,Zero-Price RES,668.2130313957781
+1011,Zero-Price RES,664.953030395778
+1012,Zero-Price RES,642.288030395778
+1013,Zero-Price RES,603.778030895778
+1014,Zero-Price RES,530.2529286901483
+1015,Zero-Price RES,0.0
+1016,Zero-Price RES,0.0
+1017,Zero-Price RES,0.0
+1018,Zero-Price RES,0.0
+1019,Zero-Price RES,1633.8124796086126
+1020,Zero-Price RES,2067.7700015
+1021,Zero-Price RES,2451.8299985
+1022,Zero-Price RES,2773.7599984999997
+1023,Zero-Price RES,2966.8549985
+1024,Zero-Price RES,3043.79
+1025,Zero-Price RES,1875.2500010000003
+1026,Zero-Price RES,1447.9050383996278
+1027,Zero-Price RES,1104.835660482915
+1028,Zero-Price RES,1120.536885983519
+1029,Zero-Price RES,2425.56
+1030,Zero-Price RES,2237.64897405145
+1031,Zero-Price RES,1996.8454782753272
+1032,Zero-Price RES,1245.6392250845865
+1033,Zero-Price RES,1735.5457688807687
+1034,Zero-Price RES,1139.5691014922
+1035,Zero-Price RES,733.5963721270086
+1036,Zero-Price RES,608.7519077244518
+1037,Zero-Price RES,594.771796288522
+1038,Zero-Price RES,430.275
+1039,Zero-Price RES,310.86540506197184
+1040,Zero-Price RES,203.35831394869723
+1041,Zero-Price RES,363.7863059397784
+1042,Zero-Price RES,587.3061920813706
+1043,Zero-Price RES,0.0
+1044,Zero-Price RES,577.0497570695248
+1045,Zero-Price RES,0.0
+1046,Zero-Price RES,0.0
+1047,Zero-Price RES,0.0
+1048,Zero-Price RES,0.0
+1049,Zero-Price RES,0.0
+1050,Price Convergence Middle,0.0
+1051,Price Convergence Low,0.0
+1052,Zero-Price,0.0
+1053,Zero-Price,0.0
+1054,Zero-Price,0.0
+1055,Price Convergence Low,0.0
+1056,Price Convergence Low,0.0
+1057,Price Convergence Low,0.0
+1058,Price Convergence Low,0.0
+1059,Price Convergence Low,0.0
+1060,Zero-Price RES,0.0
+1061,Zero-Price RES,0.0
+1062,Price Convergence Low,0.0
+1063,Price Convergence Low,0.0
+1064,Zero-Price RES,0.0
+1065,Zero-Price RES,0.0
+1066,Zero-Price RES,1538.8093829245995
+1067,Zero-Price RES,1612.6726943362141
+1068,Zero-Price RES,1669.751376838024
+1069,Zero-Price RES,1724.2644320565462
+1070,Zero-Price RES,2262.7557664542533
+1071,Zero-Price RES,2253.2248216128655
+1072,Zero-Price RES,2095.9180929591394
+1073,Zero-Price RES,0.0
+1074,Zero-Price RES,588.8902625903652
+1075,Zero-Price RES,523.7458577855487
+1076,Zero-Price RES,459.9558221402386
+1077,Zero-Price RES,385.2360668347535
+1078,Zero-Price RES,374.9971686366422
+1079,Zero-Price RES,425.47357537764026
+1080,Zero-Price RES,522.4379102906313
+1081,Zero-Price RES,589.498030895778
+1082,Zero-Price RES,601.3980303957782
+1083,Zero-Price RES,595.0630308957781
+1084,Zero-Price RES,566.4830313957781
+1085,Zero-Price RES,0.0
+1086,Zero-Price RES,0.0
+1087,Zero-Price RES,328.643836632652
+1088,Zero-Price RES,223.65000034173204
+1089,Zero-Price RES,0.0
+1090,Zero-Price RES,961.730080706107
+1091,Zero-Price RES,1598.5587325753386
+1092,Zero-Price RES,1651.2754473961534
+1093,Zero-Price RES,1584.877352212141
+1094,Zero-Price RES,1430.4034856153075
+1095,Zero-Price RES,0.0
+1096,Zero-Price RES,158.16501307479365
+1097,Zero-Price RES,59.63772064444839
+1098,Zero-Price RES,205.43956584857847
+1099,Zero-Price RES,174.70520068907194
+1100,Zero-Price RES,201.7618813386928
+1101,Zero-Price RES,204.1308649153243
+1102,Zero-Price RES,127.3142136514623
+1103,Zero-Price RES,29.40788137273489
+1104,Other Price Formation,0.0
+1105,Zero-Price RES,0.0
+1106,Other Price Formation,0.0
+1107,Price Convergence Middle,0.0
+1108,Price Convergence Low,0.0
+1109,Price Convergence Low,0.0
+1110,Price Convergence Low,0.0
+1111,Zero-Price,0.0
+1112,Zero-Price RES,0.0
+1113,Zero-Price RES,0.0
+1114,Zero-Price RES,0.0
+1115,Zero-Price RES,0.0
+1116,Zero-Price RES,0.0
+1117,Zero-Price RES,0.0
+1118,Zero-Price RES,28.346632131715975
+1119,Zero-Price RES,127.72357134658864
+1120,Zero-Price RES,0.0
+1121,Zero-Price RES,352.19794897227155
+1122,Price Convergence Low,0.0
+1123,Price Convergence Low,0.0
+1124,Price Convergence Low,0.0
+1125,Price Convergence Low,0.0
+1126,Price Convergence Low,0.0
+1127,Price Convergence Low,0.0
+1128,Price Convergence Low,0.0
+1129,Zero-Price RES,0.0
+1130,Zero-Price RES,0.0
+1131,Zero-Price RES,0.0
+1132,Zero-Price RES,0.0
+1133,Price Convergence Low,0.0
+1134,Price Convergence Low,0.0
+1135,Price Convergence Low,0.0
+1136,Price Convergence Low,0.0
+1137,Zero-Price RES,0.0
+1138,Zero-Price RES,0.0
+1139,Zero-Price RES,757.5858213532548
+1140,Zero-Price RES,738.4808842182624
+1141,Zero-Price RES,820.8260452473127
+1142,Zero-Price RES,998.408890404688
+1143,Zero-Price RES,1186.9106879900278
+1144,Zero-Price RES,0.0
+1145,Zero-Price RES,780.2277472430301
+1146,Zero-Price RES,0.0
+1147,Zero-Price RES,0.0
+1148,Zero-Price RES,0.0
+1149,Zero-Price RES,0.0
+1150,Price Convergence Low,0.0
+1151,Price Convergence Low,0.0
+1152,Price Convergence Low,0.0
+1153,Price Convergence Low,0.0
+1154,Zero-Price,0.0
+1155,Price Convergence Low,0.0
+1156,Price Convergence Low,0.0
+1157,Zero-Price,0.0
+1158,Price Convergence Low,0.0
+1159,Zero-Price,0.0
+1160,Price Convergence Middle,0.0
+1161,Price Convergence Middle,0.0
+1162,Price Convergence Middle,0.0
+1163,Price Convergence Middle,0.0
+1164,Price Convergence Middle,0.0
+1165,Zero-Price RES,0.0
+1166,Zero-Price RES,0.0
+1167,Zero-Price RES,0.0
+1168,Zero-Price RES,234.1088536056537
+1169,Zero-Price RES,0.0
+1170,Price Convergence Low,0.0
+1171,Price Convergence Low,0.0
+1172,Price Convergence Low,0.0
+1173,Price Convergence Low,0.0
+1174,Price Convergence Low,0.0
+1175,Price Convergence Low,0.0
+1176,Zero-Price,0.0
+1177,Zero-Price,0.0
+1178,Price Convergence Low,0.0
+1179,Price Convergence Low,0.0
+1180,Zero-Price,0.0
+1181,Price Convergence Low,0.0
+1182,Price Convergence Low,0.0
+1183,Price Convergence Low,0.0
+1184,Price Convergence Middle,0.0
+1185,Price Convergence Middle,0.0
+1186,Price Convergence Middle,0.0
+1187,Price Convergence Middle,0.0
+1188,Price Convergence Middle,0.0
+1189,Zero-Price RES,0.0
+1190,Zero-Price RES,0.0
+1191,Zero-Price RES,0.0
+1192,Price Convergence Middle,0.0
+1193,Zero-Price,0.0
+1194,Zero-Price,0.0
+1195,Zero-Price,0.0
+1196,Zero-Price,0.0
+1197,Zero-Price,0.0
+1198,Price Convergence Low,0.0
+1199,Price Convergence Low,0.0
+1200,Zero-Price,0.0
+1201,Price Convergence Low,0.0
+1202,Zero-Price,0.0
+1203,Price Convergence Low,0.0
+1204,Zero-Price,0.0
+1205,Price Convergence Low,0.0
+1206,Zero-Price,0.0
+1207,Price Convergence Low,0.0
+1208,Zero-Price,0.0
+1209,Price Convergence Middle,0.0
+1210,Zero-Price RES,0.0
+1211,Zero-Price RES,0.0
+1212,Zero-Price RES,0.0
+1213,Zero-Price RES,0.0
+1214,Zero-Price RES,0.0
+1215,Zero-Price RES,41.7526567376292
+1216,Zero-Price RES,85.55793383023877
+1217,Zero-Price RES,0.0
+1218,Price Convergence Low,0.0
+1219,Price Convergence Low,0.0
+1220,Price Convergence Low,0.0
+1221,Price Convergence Low,0.0
+1222,Price Convergence Low,0.0
+1223,Zero-Price,0.0
+1224,Price Convergence Low,0.0
+1225,Zero-Price,0.0
+1226,Price Convergence Low,0.0
+1227,Price Convergence Low,0.0
+1228,Zero-Price,0.0
+1229,Zero-Price,0.0
+1230,Price Convergence Low,0.0
+1231,Zero-Price,0.0
+1232,Zero-Price,0.0
+1233,Zero-Price RES,366.225
+1234,Zero-Price RES,14.424492022153572
+1235,Zero-Price RES,0.0
+1236,Zero-Price RES,0.0
+1237,Zero-Price RES,148.68576098824718
+1238,Zero-Price RES,1308.866526901068
+1239,Zero-Price RES,1031.8035637799828
+1240,Zero-Price RES,1205.4000914391688
+1241,Zero-Price RES,0.0
+1242,Zero-Price RES,0.0
+1243,Zero-Price RES,578.439229040789
+1244,Zero-Price RES,590.3345052508382
+1245,Zero-Price RES,580.7738464579141
+1246,Zero-Price RES,599.9776281151161
+1247,Zero-Price RES,615.0553598334155
+1248,Zero-Price RES,605.7971397260866
+1249,Zero-Price RES,578.7407688020492
+1250,Zero-Price RES,533.912547694721
+1251,Zero-Price RES,513.9548912670414
+1252,Zero-Price RES,515.6997259929221
+1253,Zero-Price RES,506.5324261956871
+1254,Zero-Price RES,500.1773570348428
+1255,Zero-Price RES,0.0
+1256,Zero-Price RES,0.0
+1257,Zero-Price RES,0.0
+1258,Zero-Price RES,0.0
+1259,Zero-Price RES,211.2097365820342
+1260,Zero-Price RES,0.0
+1261,Zero-Price RES,159.10009950577455
+1262,Zero-Price RES,0.0
+1263,Zero-Price RES,0.0
+1264,Zero-Price RES,0.0
+1265,Zero-Price RES,0.0
+1266,Price Convergence Low,0.0
+1267,Price Convergence Low,0.0
+1268,Zero-Price,0.0
+1269,Zero-Price,0.0
+1270,Zero-Price,0.0
+1271,Price Convergence Low,0.0
+1272,Zero-Price,0.0
+1273,Zero-Price,0.0
+1274,Price Convergence Low,0.0
+1275,Price Convergence Low,0.0
+1276,Zero-Price,0.0
+1277,Zero-Price,0.0
+1278,Price Convergence Low,0.0
+1279,Price Convergence Low,0.0
+1280,Price Convergence Low,0.0
+1281,Zero-Price,0.0
+1282,Zero-Price RES,0.0
+1283,Zero-Price RES,42.045
+1284,Zero-Price RES,46.0399995
+1285,Zero-Price RES,47.26500000000001
+1286,Zero-Price RES,46.425
+1287,Zero-Price RES,45.1399995
+1288,Zero-Price RES,44.625
+1289,Price Convergence Middle,0.0
+1290,Zero-Price,0.0
+1291,Zero-Price,0.0
+1292,Zero-Price,0.0
+1293,Zero-Price,0.0
+1294,Zero-Price,0.0
+1295,Price Convergence Low,0.0
+1296,Zero-Price,0.0
+1297,Price Convergence Low,0.0
+1298,Price Convergence Low,0.0
+1299,Price Convergence Low,0.0
+1300,Zero-Price,0.0
+1301,Price Convergence Low,0.0
+1302,Zero-Price,0.0
+1303,Price Convergence Low,0.0
+1304,Zero-Price,0.0
+1305,Price Convergence Middle,0.0
+1306,Zero-Price RES,0.0
+1307,Price Convergence Middle,0.0
+1308,Zero-Price RES,0.0
+1309,Zero-Price RES,0.0
+1310,Zero-Price RES,0.0
+1311,Zero-Price RES,0.0
+1312,Zero-Price,0.0
+1313,Price Convergence Middle,0.0
+1314,Zero-Price,0.0
+1315,Price Convergence Low,0.0
+1316,Price Convergence Low,0.0
+1317,Price Convergence Low,0.0
+1318,Price Convergence Low,0.0
+1319,Price Convergence Low,0.0
+1320,Zero-Price RES,0.0
+1321,Zero-Price RES,0.0
+1322,Zero-Price RES,0.0
+1323,Zero-Price RES,681.458031395778
+1324,Zero-Price RES,657.6730308957782
+1325,Zero-Price RES,606.5150636332555
+1326,Zero-Price RES,0.0
+1327,Price Convergence Low,0.0
+1328,Price Convergence Low,0.0
+1329,Price Convergence Low,0.0
+1330,Zero-Price RES,0.0
+1331,Zero-Price RES,146.89870928659047
+1332,Zero-Price RES,662.8657419082504
+1333,Zero-Price RES,467.63347376478134
+1334,Zero-Price RES,441.76445972906447
+1335,Zero-Price RES,570.2276511279783
+1336,Zero-Price RES,537.569589743001
+1337,Zero-Price RES,0.0
+1338,Price Convergence Low,0.0
+1339,Price Convergence Low,0.0
+1340,Price Convergence Low,0.0
+1341,Price Convergence Low,0.0
+1342,Price Convergence Low,0.0
+1343,Price Convergence Low,0.0
+1344,Zero-Price,0.0
+1345,Price Convergence Low,0.0
+1346,Price Convergence Low,0.0
+1347,Zero-Price,0.0
+1348,Zero-Price,0.0
+1349,Zero-Price,0.0
+1350,Zero-Price,0.0
+1351,Price Convergence Low,0.0
+1352,Price Convergence Low,0.0
+1353,Price Convergence Low,0.0
+1354,Price Convergence Low,0.0
+1355,Zero-Price,0.0
+1356,Zero-Price,0.0
+1357,Price Convergence Low,0.0
+1358,Price Convergence Low,0.0
+1359,Zero-Price,0.0
+1360,Price Convergence Low,0.0
+1361,Zero-Price,0.0
+1362,Price Convergence Low,0.0
+1363,Zero-Price,0.0
+1364,Price Convergence Low,0.0
+1365,Price Convergence Low,0.0
+1366,Zero-Price,0.0
+1367,Zero-Price,0.0
+1368,Zero-Price,0.0
+1369,Price Convergence Low,0.0
+1370,Price Convergence Low,0.0
+1371,Zero-Price,0.0
+1372,Zero-Price,0.0
+1373,Price Convergence Low,0.0
+1374,Zero-Price,0.0
+1375,Price Convergence Low,0.0
+1376,Zero-Price,0.0
+1377,Price Convergence Low,0.0
+1378,Zero-Price RES,0.0
+1379,Zero-Price RES,106.56079172067604
+1380,Zero-Price RES,117.37736941195811
+1381,Zero-Price RES,97.09038066498977
+1382,Zero-Price RES,0.0
+1383,Zero-Price RES,349.11
+1384,Zero-Price RES,293.5385131553993
+1385,Zero-Price,0.0
+1386,Zero-Price,0.0
+1387,Zero-Price,0.0
+1388,Zero-Price,0.0
+1389,Price Convergence Low,0.0
+1390,Zero-Price,0.0
+1391,Price Convergence Middle,0.0
+1392,Zero-Price,0.0
+1393,Price Convergence Middle,0.0
+1394,Price Convergence Low,0.0
+1395,Zero-Price,0.0
+1396,Zero-Price,0.0
+1397,Zero-Price,0.0
+1398,Zero-Price,0.0
+1399,Price Convergence Low,0.0
+1400,Zero-Price RES,0.0
+1401,Zero-Price RES,0.0
+1402,Zero-Price RES,1531.2467126957908
+1403,Zero-Price RES,1559.2485087811306
+1404,Zero-Price RES,1501.075033273861
+1405,Zero-Price RES,1429.9787878737404
+1406,Zero-Price RES,1348.646817026289
+1407,Zero-Price RES,1234.5678415323523
+1408,Zero-Price RES,0.0
+1409,Zero-Price RES,0.0
+1410,Price Convergence Low,0.0
+1411,Price Convergence Low,0.0
+1412,Price Convergence Low,0.0
+1413,Price Convergence Low,0.0
+1414,Zero-Price RES,0.0
+1415,Zero-Price RES,0.0
+1416,Zero-Price RES,0.0
+1417,Zero-Price RES,0.0
+1418,Zero-Price RES,0.0
+1419,Zero-Price RES,0.0
+1420,Zero-Price RES,0.0
+1421,Zero-Price RES,0.0
+1422,Zero-Price RES,0.0
+1423,Zero-Price RES,0.0
+1424,Zero-Price RES,0.0
+1425,Zero-Price RES,1912.2181284578737
+1426,Zero-Price RES,2006.3172342484318
+1427,Zero-Price RES,2159.7408968507243
+1428,Zero-Price RES,0.0
+1429,Zero-Price RES,50.357528340408365
+1430,Zero-Price RES,199.2957547833776
+1431,Zero-Price RES,108.8819168900318
+1432,Zero-Price RES,1455.8699990000005
+1433,Zero-Price RES,1375.2788794711769
+1434,Zero-Price RES,786.052215986532
+1435,Zero-Price RES,55.76544190839826
+1436,Zero-Price RES,0.0
+1437,Zero-Price RES,0.0
+1438,Zero-Price RES,0.0
+1439,Zero-Price RES,0.0
+1440,Zero-Price RES,59.09197018918343
+1441,Zero-Price RES,0.0
+1442,Zero-Price RES,0.0
+1443,Zero-Price RES,0.0
+1444,Zero-Price RES,488.8300005
+1445,Zero-Price RES,75.41043683636917
+1446,Zero-Price RES,0.0
+1447,Zero-Price RES,0.0
+1448,Zero-Price RES,0.0
+1449,Zero-Price RES,0.0
+1450,Zero-Price RES,0.0
+1451,Zero-Price RES,0.0
+1452,Zero-Price RES,0.0
+1453,Zero-Price RES,0.0
+1454,Zero-Price RES,0.0
+1455,Zero-Price RES,0.0
+1456,Zero-Price RES,0.0
+1457,Zero-Price RES,138.32488207998583
+1458,Price Convergence Low,0.0
+1459,Price Convergence Low,0.0
+1460,Price Convergence Middle,0.0
+1461,Zero-Price,0.0
+1462,Price Convergence Low,0.0
+1463,Zero-Price,0.0
+1464,Price Convergence Low,0.0
+1465,Price Convergence Low,0.0
+1466,Price Convergence Low,0.0
+1467,Zero-Price RES,0.0
+1468,Price Convergence Low,0.0
+1469,Zero-Price,0.0
+1470,Zero-Price,0.0
+1471,Zero-Price,0.0
+1472,Zero-Price RES,0.0
+1473,Zero-Price RES,0.0
+1474,Zero-Price RES,862.7675361074637
+1475,Zero-Price RES,1033.2907724210088
+1476,Zero-Price RES,1165.7617371619144
+1477,Zero-Price RES,1210.304504054765
+1478,Zero-Price RES,1111.3011712436332
+1479,Zero-Price RES,950.8299564760916
+1480,Zero-Price RES,878.3074242103604
+1481,Zero-Price RES,0.0
+1482,Zero-Price RES,529.4869852450713
+1483,Zero-Price RES,686.0980308957782
+1484,Zero-Price RES,0.0
+1485,Zero-Price RES,819.1480308957781
+1486,Zero-Price RES,0.0
+1487,Zero-Price RES,0.0
+1488,Zero-Price RES,0.0
+1489,Zero-Price RES,286.8195312469538
+1490,Zero-Price RES,0.0
+1491,Zero-Price RES,0.0
+1492,Zero-Price RES,425.0729354073711
+1493,Zero-Price RES,223.78381637570783
+1494,Zero-Price RES,188.69822874362808
+1495,Zero-Price RES,458.3054609730439
+1496,Zero-Price RES,0.0
+1497,Zero-Price RES,0.0
+1498,Zero-Price RES,0.0
+1499,Zero-Price RES,0.0
+1500,Zero-Price RES,0.0
+1501,Zero-Price RES,0.0
+1502,Zero-Price RES,0.0
+1503,Zero-Price RES,0.0
+1504,Zero-Price RES,0.0
+1505,Zero-Price RES,0.0
+1506,Zero-Price RES,0.0
+1507,Price Convergence Middle,0.0
+1508,Price Convergence Middle,0.0
+1509,Price Convergence Middle,0.0
+1510,Zero-Price,0.0
+1511,Price Convergence Middle,0.0
+1512,Zero-Price,0.0
+1513,Zero-Price,0.0
+1514,Price Convergence Low,0.0
+1515,Price Convergence Low,0.0
+1516,Price Convergence Low,0.0
+1517,Price Convergence Low,0.0
+1518,Zero-Price,0.0
+1519,Price Convergence Low,0.0
+1520,Price Convergence Middle,0.0
+1521,Zero-Price,0.0
+1522,Zero-Price RES,0.0
+1523,Price Convergence Middle,0.0
+1524,Zero-Price RES,0.0
+1525,Zero-Price RES,0.0
+1526,Price Convergence Middle,0.0
+1527,Price Convergence Middle,0.0
+1528,Price Convergence Middle,0.0
+1529,Price Convergence Middle,0.0
+1530,Price Convergence Low,0.0
+1531,Price Convergence Low,0.0
+1532,Price Convergence Low,0.0
+1533,Price Convergence Low,0.0
+1534,Price Convergence Low,0.0
+1535,Price Convergence Low,0.0
+1536,Price Convergence Low,0.0
+1537,Price Convergence Low,0.0
+1538,Price Convergence Low,0.0
+1539,Price Convergence Low,0.0
+1540,Price Convergence Low,0.0
+1541,Price Convergence Low,0.0
+1542,Price Convergence Low,0.0
+1543,Price Convergence Low,0.0
+1544,Price Convergence Low,0.0
+1545,Zero-Price RES,0.0
+1546,Zero-Price RES,1172.5037860741904
+1547,Zero-Price RES,1289.6876511710236
+1548,Zero-Price RES,1338.4892754942516
+1549,Zero-Price RES,1321.3444411897572
+1550,Zero-Price RES,1227.5203092666209
+1551,Zero-Price RES,0.0
+1552,Price Convergence Middle,0.0
+1553,Price Convergence Low,0.0
+1554,Price Convergence Low,0.0
+1555,Price Convergence Low,0.0
+1556,Price Convergence Low,0.0
+1557,Price Convergence Low,0.0
+1558,Zero-Price,0.0
+1559,Price Convergence Low,0.0
+1560,Price Convergence Low,0.0
+1561,Price Convergence Low,0.0
+1562,Zero-Price,0.0
+1563,Zero-Price,0.0
+1564,Zero-Price,0.0
+1565,Zero-Price,0.0
+1566,Price Convergence Low,0.0
+1567,Price Convergence Low,0.0
+1568,Zero-Price,0.0
+1569,Zero-Price,0.0
+1570,Price Convergence Middle,0.0
+1571,Zero-Price,0.0
+1572,Zero-Price,0.0
+1573,Zero-Price,0.0
+1574,Price Convergence Middle,0.0
+1575,Price Convergence Middle,0.0
+1576,Price Convergence Middle,0.0
+1577,Zero-Price,0.0
+1578,Price Convergence Low,0.0
+1579,Price Convergence Low,0.0
+1580,Price Convergence Low,0.0
+1581,Zero-Price RES,812.678031395778
+1582,Zero-Price RES,876.163030895778
+1583,Zero-Price RES,343.24210877847594
+1584,Zero-Price RES,148.51824084227275
+1585,Zero-Price RES,201.84460981177875
+1586,Zero-Price RES,0.0
+1587,Zero-Price RES,696.828030395778
+1588,Zero-Price RES,591.373894362775
+1589,Zero-Price RES,430.20214485586257
+1590,Zero-Price RES,354.27706343546697
+1591,Zero-Price RES,337.3956798185502
+1592,Zero-Price RES,0.0
+1593,Zero-Price RES,0.0
+1594,Zero-Price RES,1003.4159625826376
+1595,Zero-Price RES,1063.0344119573283
+1596,Zero-Price RES,1009.0047263489727
+1597,Zero-Price RES,880.7404809288821
+1598,Zero-Price RES,0.0
+1599,Zero-Price RES,0.0
+1600,Zero-Price RES,0.0
+1601,Price Convergence Low,0.0
+1602,Zero-Price,0.0
+1603,Price Convergence Low,0.0
+1604,Price Convergence Low,0.0
+1605,Price Convergence Low,0.0
+1606,Zero-Price,0.0
+1607,Zero-Price,0.0
+1608,Zero-Price,0.0
+1609,Price Convergence Low,0.0
+1610,Zero-Price,0.0
+1611,Price Convergence Low,0.0
+1612,Zero-Price,0.0
+1613,Price Convergence Low,0.0
+1614,Zero-Price,0.0
+1615,Price Convergence Low,0.0
+1616,Price Convergence Low,0.0
+1617,Price Convergence Low,0.0
+1618,Price Convergence Middle,0.0
+1619,Zero-Price,0.0
+1620,Zero-Price,0.0
+1621,Zero-Price RES,0.0
+1622,Zero-Price RES,0.0
+1623,Zero-Price RES,569.4831053519599
+1624,Zero-Price RES,0.0
+1625,Zero-Price RES,1249.6099999999997
+1626,Zero-Price RES,1409.639999
+1627,Zero-Price RES,921.2459679910885
+1628,Zero-Price RES,686.5759401941477
+1629,Zero-Price RES,647.9693448252658
+1630,Zero-Price RES,763.4640211007097
+1631,Zero-Price RES,995.7427680341328
+1632,Zero-Price RES,1112.374344725415
+1633,Zero-Price RES,1232.6555793924742
+1634,Zero-Price RES,1382.4497512144962
+1635,Zero-Price RES,1480.850554926352
+1636,Zero-Price RES,1394.4719889881005
+1637,Zero-Price RES,1381.3420048731077
+1638,Zero-Price RES,1608.5
+1639,Zero-Price RES,2286.758029395778
+1640,Zero-Price RES,2819.105
+1641,Zero-Price RES,3377.7899999999995
+1642,Zero-Price RES,3378.4500015000003
+1643,Zero-Price RES,2827.205
+1644,Zero-Price RES,2755.2199985
+1645,Zero-Price RES,3145.1700014999997
+1646,Zero-Price RES,2951.5199985
+1647,Zero-Price RES,2159.3001530038764
+1648,Zero-Price RES,1885.9380378604365
+1649,Zero-Price RES,1658.0010208810395
+1650,Zero-Price RES,1177.5334170838444
+1651,Zero-Price RES,645.9649995
+1652,Zero-Price RES,1294.388029895778
+1653,Zero-Price RES,1352.818030895778
+1654,Zero-Price RES,1727.0626736967565
+1655,Zero-Price RES,1076.6540534165742
+1656,Zero-Price RES,1771.2144652154898
+1657,Zero-Price RES,1754.178474508462
+1658,Zero-Price RES,1773.4418272191106
+1659,Zero-Price RES,1789.0820603462298
+1660,Zero-Price RES,1754.4042121888538
+1661,Zero-Price RES,1685.8673547385065
+1662,Zero-Price RES,936.7580901756695
+1663,Zero-Price RES,683.85
+1664,Zero-Price RES,1466.298635286471
+1665,Zero-Price RES,1150.3471467176005
+1666,Zero-Price RES,971.0929395965445
+1667,Zero-Price RES,942.8594191237845
+1668,Zero-Price RES,963.3161533441164
+1669,Zero-Price RES,1549.5705178277667
+1670,Zero-Price RES,1529.889485655248
+1671,Zero-Price RES,1478.3485086812811
+1672,Zero-Price RES,839.205269867736
+1673,Zero-Price RES,233.1245959525016
+1674,Zero-Price RES,464.9800005
+1675,Zero-Price RES,435.6550005
+1676,Zero-Price RES,554.4516970454715
+1677,Zero-Price RES,490.83133278525133
+1678,Zero-Price RES,372.6
+1679,Zero-Price RES,426.74717104517384
+1680,Zero-Price RES,410.1367930920743
+1681,Zero-Price RES,420.13486311816314
+1682,Zero-Price RES,93.82271440216812
+1683,Zero-Price RES,288.94581662507574
+1684,Zero-Price RES,83.32628244706189
+1685,Zero-Price RES,45.08493547545504
+1686,Zero-Price RES,0.0
+1687,Other Price Formation,0.0
+1688,Zero-Price RES,111.9908324144007
+1689,Zero-Price RES,0.0
+1690,Zero-Price RES,0.0
+1691,Zero-Price RES,0.0
+1692,Zero-Price RES,0.0
+1693,Zero-Price RES,0.0
+1694,Zero-Price RES,0.0
+1695,Zero-Price RES,0.0
+1696,Zero-Price RES,50.970000000000006
+1697,Zero-Price,0.0
+1698,Price Convergence Low,0.0
+1699,Price Convergence Low,0.0
+1700,Price Convergence Low,0.0
+1701,Zero-Price,0.0
+1702,Zero-Price,0.0
+1703,Price Convergence Low,0.0
+1704,Zero-Price,0.0
+1705,Price Convergence Low,0.0
+1706,Zero-Price,0.0
+1707,Price Convergence Low,0.0
+1708,Price Convergence Low,0.0
+1709,Zero-Price,0.0
+1710,Price Convergence Low,0.0
+1711,Zero-Price,0.0
+1712,Zero-Price,0.0
+1713,Price Convergence Middle,0.0
+1714,Price Convergence Middle,0.0
+1715,Price Convergence Middle,0.0
+1716,Price Convergence Middle,0.0
+1717,Price Convergence Middle,0.0
+1718,Price Convergence Middle,0.0
+1719,Zero-Price RES,0.0
+1720,Zero-Price RES,0.0
+1721,Price Convergence Middle,0.0
+1722,Zero-Price,0.0
+1723,Zero-Price,0.0
+1724,Zero-Price,0.0
+1725,Zero-Price,0.0
+1726,Price Convergence Low,0.0
+1727,Price Convergence Low,0.0
+1728,Price Convergence Low,0.0
+1729,Zero-Price,0.0
+1730,Zero-Price,0.0
+1731,Price Convergence Low,0.0
+1732,Zero-Price,0.0
+1733,Zero-Price,0.0
+1734,Zero-Price,0.0
+1735,Price Convergence Low,0.0
+1736,Price Convergence Low,0.0
+1737,Price Convergence Low,0.0
+1738,Zero-Price RES,0.0
+1739,Zero-Price RES,803.4475777726544
+1740,Zero-Price RES,1064.9383130528965
+1741,Zero-Price RES,1256.3899999999999
+1742,Zero-Price RES,1125.0889249257473
+1743,Zero-Price RES,943.3892911267139
+1744,Zero-Price RES,1287.1551522090363
+1745,Zero-Price RES,1307.8099999999997
+1746,Zero-Price RES,443.98209350143463
+1747,Price Convergence Low,0.0
+1748,Price Convergence Low,0.0
+1749,Price Convergence Low,0.0
+1750,Price Convergence Low,0.0
+1751,Price Convergence Low,0.0
+1752,Price Convergence Low,0.0
+1753,Zero-Price,0.0
+1754,Price Convergence Low,0.0
+1755,Price Convergence Low,0.0
+1756,Price Convergence Low,0.0
+1757,Zero-Price,0.0
+1758,Price Convergence Low,0.0
+1759,Price Convergence Low,0.0
+1760,Price Convergence Low,0.0
+1761,Zero-Price,0.0
+1762,Price Convergence Low,0.0
+1763,Zero-Price,0.0
+1764,Price Convergence Low,0.0
+1765,Zero-Price RES,71.16283574268482
+1766,Zero-Price RES,0.0
+1767,Zero-Price RES,0.0
+1768,Zero-Price RES,0.0
+1769,Price Convergence Low,0.0
+1770,Price Convergence Middle,0.0
+1771,Price Convergence Low,0.0
+1772,Price Convergence Low,0.0
+1773,Price Convergence Low,0.0
+1774,Price Convergence Low,0.0
+1775,Price Convergence Low,0.0
+1776,Zero-Price RES,0.0
+1777,Zero-Price RES,0.0
+1778,Price Convergence Low,0.0
+1779,Price Convergence Low,0.0
+1780,Price Convergence Low,0.0
+1781,Zero-Price,0.0
+1782,Zero-Price,0.0
+1783,Price Convergence Low,0.0
+1784,Zero-Price,0.0
+1785,Zero-Price,0.0
+1786,Zero-Price,0.0
+1787,Zero-Price,0.0
+1788,Price Convergence Low,0.0
+1789,Zero-Price,0.0
+1790,Zero-Price RES,26.74914307470397
+1791,Zero-Price RES,198.2149995
+1792,Price Convergence Low,0.0
+1793,Price Convergence Low,0.0
+1794,Zero-Price,0.0
+1795,Price Convergence Low,0.0
+1796,Price Convergence Low,0.0
+1797,Zero-Price,0.0
+1798,Zero-Price,0.0
+1799,Zero-Price,0.0
+1800,Price Convergence Low,0.0
+1801,Zero-Price,0.0
+1802,Zero-Price,0.0
+1803,Zero-Price,0.0
+1804,Zero-Price,0.0
+1805,Price Convergence Low,0.0
+1806,Price Convergence Low,0.0
+1807,Zero-Price,0.0
+1808,Zero-Price,0.0
+1809,Price Convergence Middle,0.0
+1810,Price Convergence Low,0.0
+1811,Price Convergence Low,0.0
+1812,Zero-Price,0.0
+1813,Zero-Price RES,0.0
+1814,Price Convergence Low,0.0
+1815,Price Convergence Low,0.0
+1816,Price Convergence Low,0.0
+1817,Zero-Price,0.0
+1818,Price Convergence Low,0.0
+1819,Price Convergence Low,0.0
+1820,Zero-Price,0.0
+1821,Price Convergence Low,0.0
+1822,Zero-Price,0.0
+1823,Zero-Price,0.0
+1824,Price Convergence Low,0.0
+1825,Zero-Price,0.0
+1826,Price Convergence Low,0.0
+1827,Price Convergence Low,0.0
+1828,Zero-Price,0.0
+1829,Zero-Price,0.0
+1830,Price Convergence Low,0.0
+1831,Price Convergence Low,0.0
+1832,Price Convergence Low,0.0
+1833,Zero-Price,0.0
+1834,Zero-Price RES,0.0
+1835,Zero-Price RES,0.0
+1836,Zero-Price RES,0.0
+1837,Zero-Price RES,0.0
+1838,Zero-Price RES,0.0
+1839,Zero-Price RES,0.0
+1840,Zero-Price RES,0.0
+1841,Price Convergence Middle,0.0
+1842,Price Convergence Low,0.0
+1843,Zero-Price,0.0
+1844,Zero-Price,0.0
+1845,Price Convergence Low,0.0
+1846,Price Convergence Low,0.0
+1847,Zero-Price RES,0.0
+1848,Zero-Price RES,393.4887142756716
+1849,Zero-Price RES,430.5393999239669
+1850,Zero-Price RES,16.65721128230848
+1851,Zero-Price RES,0.0
+1852,Zero-Price RES,285.95792606318287
+1853,Zero-Price RES,0.0
+1854,Zero-Price RES,698.8095287836029
+1855,Zero-Price RES,0.0
+1856,Zero-Price RES,134.57763058079126
+1857,Zero-Price RES,2873.6599984999993
+1858,Zero-Price RES,2909.3899985
+1859,Zero-Price RES,2862.3800014999997
+1860,Zero-Price RES,2707.46
+1861,Zero-Price RES,2491.6549985
+1862,Zero-Price RES,2547.935
+1863,Zero-Price RES,2774.6449999999995
+1864,Zero-Price RES,2776.5049984999996
+1865,Zero-Price RES,1617.5500009999996
+1866,Zero-Price RES,1254.3305033797446
+1867,Zero-Price RES,411.57806490856586
+1868,Zero-Price RES,197.17552801892947
+1869,Zero-Price RES,0.0
+1870,Zero-Price RES,110.404835595296
+1871,Zero-Price RES,4.267112710096114
+1872,Zero-Price RES,0.0
+1873,Zero-Price RES,0.0
+1874,Zero-Price RES,373.10404594401473
+1875,Zero-Price RES,221.5608815030488
+1876,Zero-Price RES,171.22276500347652
+1877,Zero-Price RES,0.0
+1878,Zero-Price,0.0
+1879,Price Convergence Low,0.0
+1880,Zero-Price RES,0.0
+1881,Zero-Price RES,0.0
+1882,Zero-Price RES,219.9560683132857
+1883,Zero-Price RES,820.0516388980215
+1884,Zero-Price RES,889.298376618354
+1885,Zero-Price RES,876.6660008816721
+1886,Zero-Price RES,768.4632523883386
+1887,Zero-Price RES,0.0
+1888,Zero-Price RES,0.0
+1889,Zero-Price RES,392.985
+1890,Zero-Price,0.0
+1891,Price Convergence Low,0.0
+1892,Price Convergence Low,0.0
+1893,Price Convergence Low,0.0
+1894,Zero-Price,0.0
+1895,Price Convergence Low,0.0
+1896,Zero-Price,0.0
+1897,Price Convergence Low,0.0
+1898,Zero-Price,0.0
+1899,Price Convergence Low,0.0
+1900,Zero-Price,0.0
+1901,Zero-Price,0.0
+1902,Price Convergence Low,0.0
+1903,Price Convergence Low,0.0
+1904,Zero-Price,0.0
+1905,Price Convergence Low,0.0
+1906,Zero-Price,0.0
+1907,Price Convergence Low,0.0
+1908,Zero-Price RES,0.0
+1909,Zero-Price RES,205.07601321458375
+1910,Zero-Price RES,0.0
+1911,Zero-Price RES,0.0
+1912,Zero-Price RES,0.0
+1913,Zero-Price RES,0.0
+1914,Zero-Price RES,382.8638180208301
+1915,Zero-Price RES,0.0
+1916,Zero-Price RES,669.853030895778
+1917,Zero-Price RES,539.0666219512987
+1918,Zero-Price RES,412.481626384627
+1919,Zero-Price RES,317.8277591772537
+1920,Zero-Price RES,220.296214719546
+1921,Zero-Price RES,154.33330646757588
+1922,Zero-Price RES,92.13873425886482
+1923,Zero-Price RES,15.074483035288267
+1924,Zero-Price RES,0.0
+1925,Price Convergence Middle,0.0
+1926,Price Convergence Middle,0.0
+1927,Zero-Price,0.0
+1928,Price Convergence Low,0.0
+1929,Price Convergence Low,0.0
+1930,Price Convergence Low,0.0
+1931,Zero-Price,0.0
+1932,Zero-Price,0.0
+1933,Price Convergence Low,0.0
+1934,Price Convergence Low,0.0
+1935,Zero-Price,0.0
+1936,Price Convergence Middle,0.0
+1937,Price Convergence Middle,0.0
+1938,Price Convergence Low,0.0
+1939,Price Convergence Low,0.0
+1940,Price Convergence Low,0.0
+1941,Price Convergence Low,0.0
+1942,Price Convergence Low,0.0
+1943,Zero-Price RES,723.4601708268897
+1944,Zero-Price RES,714.2664628589371
+1945,Zero-Price RES,1081.1832359880718
+1946,Zero-Price RES,1073.2724292762164
+1947,Zero-Price RES,862.185866317996
+1948,Zero-Price RES,844.4043636879915
+1949,Zero-Price RES,225.99641562166863
+1950,Zero-Price RES,818.3280303957781
+1951,Zero-Price RES,733.423030895778
+1952,Zero-Price RES,0.0
+1953,Zero-Price RES,0.0
+1954,Zero-Price RES,377.62341241738864
+1955,Zero-Price RES,330.7887314174342
+1956,Zero-Price RES,397.63213732477857
+1957,Zero-Price RES,0.0
+1958,Zero-Price RES,0.0
+1959,Zero-Price RES,0.0
+1960,Zero-Price RES,0.0
+1961,Zero-Price RES,0.0
+1962,Price Convergence Low,0.0
+1963,Zero-Price,0.0
+1964,Zero-Price,0.0
+1965,Zero-Price,0.0
+1966,Price Convergence Low,0.0
+1967,Price Convergence Low,0.0
+1968,Price Convergence Low,0.0
+1969,Price Convergence Low,0.0
+1970,Zero-Price,0.0
+1971,Zero-Price,0.0
+1972,Zero-Price,0.0
+1973,Price Convergence Low,0.0
+1974,Zero-Price,0.0
+1975,Zero-Price,0.0
+1976,Price Convergence Low,0.0
+1977,Zero-Price RES,260.7250005
+1978,Zero-Price RES,0.0
+1979,Zero-Price RES,0.0
+1980,Zero-Price RES,0.0
+1981,Zero-Price RES,0.0
+1982,Zero-Price RES,210.75414809778056
+1983,Zero-Price RES,189.79505554028407
+1984,Zero-Price RES,0.0
+1985,Zero-Price RES,177.62525843497428
+1986,Price Convergence Low,0.0
+1987,Zero-Price,0.0
+1988,Price Convergence Low,0.0
+1989,Zero-Price,0.0
+1990,Zero-Price,0.0
+1991,Price Convergence Low,0.0
+1992,Zero-Price,0.0
+1993,Price Convergence Low,0.0
+1994,Zero-Price,0.0
+1995,Price Convergence Low,0.0
+1996,Zero-Price,0.0
+1997,Zero-Price,0.0
+1998,Zero-Price,0.0
+1999,Price Convergence Low,0.0
+2000,Zero-Price,0.0
+2001,Zero-Price RES,110.025
+2002,Zero-Price RES,0.0
+2003,Zero-Price RES,0.0
+2004,Zero-Price RES,0.0
+2005,Zero-Price RES,0.0
+2006,Zero-Price RES,0.0
+2007,Zero-Price RES,0.0
+2008,Zero-Price RES,198.9100005
+2009,Zero-Price RES,176.1250005
+2010,Price Convergence Low,0.0
+2011,Zero-Price,0.0
+2012,Price Convergence Low,0.0
+2013,Price Convergence Low,0.0
+2014,Price Convergence Low,0.0
+2015,Price Convergence Low,0.0
+2016,Zero-Price,0.0
+2017,Price Convergence Low,0.0
+2018,Zero-Price,0.0
+2019,Price Convergence Low,0.0
+2020,Price Convergence Low,0.0
+2021,Zero-Price,0.0
+2022,Price Convergence Low,0.0
+2023,Zero-Price,0.0
+2024,Price Convergence Middle,0.0
+2025,Price Convergence Low,0.0
+2026,Price Convergence Middle,0.0
+2027,Zero-Price,0.0
+2028,Zero-Price,0.0
+2029,Zero-Price RES,0.0
+2030,Price Convergence Middle,0.0
+2031,Price Convergence Middle,0.0
+2032,Zero-Price,0.0
+2033,Zero-Price,0.0
+2034,Zero-Price,0.0
+2035,Zero-Price,0.0
+2036,Zero-Price RES,497.7028550920793
+2037,Zero-Price RES,488.9432497482484
+2038,Zero-Price RES,0.0
+2039,Zero-Price RES,0.0
+2040,Zero-Price RES,305.7739245636328
+2041,Zero-Price RES,807.269314719802
+2042,Zero-Price RES,232.9338726103358
+2043,Zero-Price RES,260.9379080556537
+2044,Zero-Price RES,841.5655470038748
+2045,Zero-Price RES,0.0
+2046,Zero-Price RES,435.63455955361707
+2047,Zero-Price RES,0.0
+2048,Zero-Price RES,0.0
+2049,Zero-Price RES,0.0
+2050,Zero-Price RES,1361.9581680572082
+2051,Zero-Price RES,2574.2399985
+2052,Zero-Price RES,1892.79
+2053,Zero-Price RES,2032.250001
+2054,Zero-Price RES,3266.1149985
+2055,Zero-Price RES,2851.9469050563703
+2056,Zero-Price RES,2322.110001
+2057,Zero-Price RES,2752.7449985000003
+2058,Zero-Price RES,1917.6
+2059,Zero-Price RES,2400.8977539605316
+2060,Zero-Price RES,2066.7130821518426
+2061,Zero-Price RES,1366.588030895778
+2062,Zero-Price RES,1250.3280318957782
+2063,Zero-Price RES,1233.5292672875557
+2064,Zero-Price RES,1049.0000386671325
+2065,Zero-Price RES,963.2843018314087
+2066,Zero-Price RES,947.5787645375185
+2067,Zero-Price RES,921.3535147132284
+2068,Zero-Price RES,923.7532888413687
+2069,Zero-Price RES,935.914633812975
+2070,Zero-Price RES,344.31165177038565
+2071,Zero-Price RES,293.58786087653493
+2072,Zero-Price RES,605.8105089815806
+2073,Zero-Price RES,779.8244548229688
+2074,Zero-Price RES,0.0
+2075,Zero-Price RES,129.6526383381119
+2076,Zero-Price RES,156.35118437684514
+2077,Zero-Price RES,141.2179587734047
+2078,Zero-Price RES,0.0
+2079,Zero-Price,0.0
+2080,Zero-Price,0.0
+2081,Price Convergence Low,0.0
+2082,Price Convergence Low,0.0
+2083,Price Convergence Low,0.0
+2084,Price Convergence Low,0.0
+2085,Price Convergence Low,0.0
+2086,Zero-Price RES,440.70234334523525
+2087,Zero-Price RES,891.8234552822789
+2088,Zero-Price RES,1130.2349522090362
+2089,Zero-Price RES,1141.5811285776924
+2090,Zero-Price RES,1195.8587757405285
+2091,Zero-Price RES,1245.1281285577238
+2092,Zero-Price RES,1270.6534628488848
+2093,Zero-Price RES,1243.4764628688545
+2094,Zero-Price RES,1068.0622095595336
+2095,Zero-Price RES,1290.3754638833655
+2096,Zero-Price RES,1480.3900010000002
+2097,Zero-Price RES,1465.0900010000005
+2098,Zero-Price RES,241.0893516914213
+2099,Zero-Price RES,1397.429999
+2100,Zero-Price RES,209.2068608911801
+2101,Zero-Price RES,2321.3900015000004
+2102,Zero-Price RES,2368.2050000000004
+2103,Zero-Price RES,2444.39
+2104,Zero-Price RES,2493.4999985
+2105,Zero-Price RES,196.48443135609625
+2106,Zero-Price RES,1483.91
+2107,Zero-Price RES,1265.8687402586593
+2108,Zero-Price RES,1023.0936384227015
+2109,Zero-Price RES,1060.3949461424304
+2110,Zero-Price RES,1995.020001
+2111,Zero-Price RES,2011.373032395778
+2112,Zero-Price RES,2011.520001
+2113,Zero-Price RES,2004.200001
+2114,Zero-Price RES,2014.389999
+2115,Zero-Price RES,2010.999999
+2116,Zero-Price RES,1991.379999
+2117,Zero-Price RES,1954.070001
+2118,Zero-Price RES,1917.950001
+2119,Zero-Price RES,1941.740001
+2120,Zero-Price RES,2467.9849985
+2121,Zero-Price RES,2504.8550015
+2122,Zero-Price RES,3037.5599985
+2123,Zero-Price RES,2569.94
+2124,Zero-Price RES,3150.585
+2125,Zero-Price RES,3213.8550000000005
+2126,Zero-Price RES,2771.3000015
+2127,Zero-Price RES,2842.6999984999998
+2128,Zero-Price RES,2848.0999985
+2129,Zero-Price RES,2720.3449985
+2130,Zero-Price RES,2095.0707306254085
+2131,Zero-Price RES,979.8250005
+2132,Zero-Price RES,528.3286271100354
+2133,Zero-Price RES,348.5193214218814
+2134,Zero-Price RES,166.82167351736535
+2135,Zero-Price RES,1207.7753416314686
+2136,Zero-Price RES,1310.9421685928592
+2137,Zero-Price RES,1450.0645391406254
+2138,Zero-Price RES,1512.386081746047
+2139,Zero-Price RES,1556.0456390577817
+2140,Zero-Price RES,1556.6638027994181
+2141,Zero-Price RES,1543.9343371141758
+2142,Zero-Price RES,636.3192303769613
+2143,Zero-Price RES,1757.257088052293
+2144,Zero-Price RES,2295.4099985000003
+2145,Zero-Price RES,2949.5399985
+2146,Zero-Price RES,3025.305
+2147,Zero-Price RES,3103.9799985
+2148,Zero-Price RES,3150.7050015000004
+2149,Zero-Price RES,3173.805
+2150,Zero-Price RES,3160.62
+2151,Zero-Price RES,3091.9500000000003
+2152,Zero-Price RES,2949.435
+2153,Zero-Price RES,2227.58
+2154,Zero-Price RES,1680.009999
+2155,Zero-Price RES,2029.0832737136216
+2156,Zero-Price RES,1848.5666493903936
+2157,Zero-Price RES,1718.1612122687343
+2158,Zero-Price RES,1607.932821092595
+2159,Zero-Price RES,1516.2911216712976
+2160,Zero-Price RES,1427.0354514225187
+2161,Zero-Price RES,1356.6821400109047
+2162,Zero-Price RES,1286.9155357536497
+2163,Zero-Price RES,1203.8091890230303
+2164,Zero-Price RES,1109.380250328128
+2165,Zero-Price RES,995.1724742688219
+2166,Zero-Price RES,860.6574649359102
+2167,Zero-Price RES,848.0872950011649
+2168,Zero-Price RES,210.4865775330142
+2169,Zero-Price RES,72.05732905871167
+2170,Zero-Price RES,183.91943075699575
+2171,Zero-Price RES,194.82715468435637
+2172,Zero-Price RES,216.20416083084217
+2173,Zero-Price RES,237.29342465045005
+2174,Zero-Price RES,246.14474981509585
+2175,Zero-Price RES,743.9691838968151
+2176,Zero-Price RES,0.0
+2177,Zero-Price RES,960.519999
+2178,Zero-Price RES,462.255
+2179,Zero-Price RES,397.1931437954339
+2180,Zero-Price RES,199.21957441168215
+2181,Zero-Price RES,177.4176855830813
+2182,Zero-Price RES,165.18978146088716
+2183,Zero-Price RES,146.87770240573604
+2184,Zero-Price RES,120.33536183341596
+2185,Zero-Price RES,88.12477633111143
+2186,Zero-Price RES,41.0139501342926
+2187,Zero-Price RES,2.9991688763768707
+2188,Other Price Formation,0.0
+2189,Other Price Formation,0.0
+2190,Zero-Price,0.0
+2191,Zero-Price,0.0
+2192,Price Convergence Low,0.0
+2193,Zero-Price RES,178.67500049999998
+2194,Zero-Price RES,0.0
+2195,Zero-Price RES,0.0
+2196,Zero-Price RES,0.0
+2197,Zero-Price RES,0.0
+2198,Zero-Price RES,0.0
+2199,Zero-Price RES,0.0
+2200,Zero-Price,0.0
+2201,Price Convergence Middle,0.0
+2202,Price Convergence Low,0.0
+2203,Zero-Price,0.0
+2204,Price Convergence Low,0.0
+2205,Price Convergence Low,0.0
+2206,Price Convergence Low,0.0
+2207,Price Convergence Low,0.0
+2208,Price Convergence Low,0.0
+2209,Zero-Price,0.0
+2210,Zero-Price,0.0
+2211,Price Convergence Low,0.0
+2212,Price Convergence Low,0.0
+2213,Zero-Price,0.0
+2214,Price Convergence Low,0.0
+2215,Zero-Price,0.0
+2216,Price Convergence Low,0.0
+2217,Zero-Price RES,0.0
+2218,Zero-Price RES,63.7271730838736
+2219,Zero-Price RES,0.0
+2220,Zero-Price RES,173.96778663410026
+2221,Zero-Price RES,455.2600005
+2222,Zero-Price RES,475.365
+2223,Zero-Price RES,486.0100005000001
+2224,Zero-Price RES,240.0004369633917
+2225,Zero-Price,0.0
+2226,Price Convergence Low,0.0
+2227,Price Convergence Low,0.0
+2228,Price Convergence Low,0.0
+2229,Zero-Price,0.0
+2230,Price Convergence Low,0.0
+2231,Price Convergence Low,0.0
+2232,Price Convergence Low,0.0
+2233,Price Convergence Low,0.0
+2234,Zero-Price,0.0
+2235,Zero-Price,0.0
+2236,Price Convergence Low,0.0
+2237,Price Convergence Low,0.0
+2238,Price Convergence Low,0.0
+2239,Zero-Price,0.0
+2240,Price Convergence Middle,0.0
+2241,Zero-Price,0.0
+2242,Zero-Price RES,0.0
+2243,Price Convergence Middle,0.0
+2244,Zero-Price RES,0.0
+2245,Price Convergence Middle,0.0
+2246,Price Convergence Middle,0.0
+2247,Zero-Price RES,0.0
+2248,Price Convergence Middle,0.0
+2249,Zero-Price,0.0
+2250,Zero-Price,0.0
+2251,Zero-Price,0.0
+2252,Price Convergence Low,0.0
+2253,Zero-Price,0.0
+2254,Price Convergence Low,0.0
+2255,Price Convergence Low,0.0
+2256,Price Convergence Low,0.0
+2257,Zero-Price,0.0
+2258,Zero-Price,0.0
+2259,Zero-Price,0.0
+2260,Zero-Price,0.0
+2261,Zero-Price,0.0
+2262,Zero-Price,0.0
+2263,Price Convergence Low,0.0
+2264,Price Convergence Low,0.0
+2265,Zero-Price,0.0
+2266,Zero-Price,0.0
+2267,Price Convergence Middle,0.0
+2268,Price Convergence Middle,0.0
+2269,Zero-Price RES,0.0
+2270,Zero-Price,0.0
+2271,Price Convergence Middle,0.0
+2272,Price Convergence Middle,0.0
+2273,Price Convergence Low,0.0
+2274,Zero-Price,0.0
+2275,Zero-Price,0.0
+2276,Zero-Price,0.0
+2277,Zero-Price,0.0
+2278,Zero-Price,0.0
+2279,Price Convergence Low,0.0
+2280,Zero-Price,0.0
+2281,Zero-Price,0.0
+2282,Price Convergence Low,0.0
+2283,Price Convergence Low,0.0
+2284,Price Convergence Low,0.0
+2285,Zero-Price,0.0
+2286,Price Convergence Low,0.0
+2287,Zero-Price,0.0
+2288,Price Convergence Low,0.0
+2289,Price Convergence Middle,0.0
+2290,Zero-Price,0.0
+2291,Zero-Price RES,0.0
+2292,Zero-Price RES,0.0
+2293,Zero-Price RES,0.0
+2294,Zero-Price RES,0.0
+2295,Zero-Price RES,0.0
+2296,Price Convergence Middle,0.0
+2297,Price Convergence Low,0.0
+2298,Zero-Price,0.0
+2299,Price Convergence Low,0.0
+2300,Zero-Price,0.0
+2301,Price Convergence Low,0.0
+2302,Price Convergence Low,0.0
+2303,Zero-Price,0.0
+2304,Price Convergence Low,0.0
+2305,Zero-Price,0.0
+2306,Zero-Price,0.0
+2307,Zero-Price,0.0
+2308,Zero-Price,0.0
+2309,Zero-Price,0.0
+2310,Price Convergence Low,0.0
+2311,Price Convergence Low,0.0
+2312,Zero-Price,0.0
+2313,Zero-Price,0.0
+2314,Price Convergence Low,0.0
+2315,Zero-Price,0.0
+2316,Zero-Price,0.0
+2317,Price Convergence Low,0.0
+2318,Zero-Price,0.0
+2319,Zero-Price,0.0
+2320,Zero-Price,0.0
+2321,Price Convergence Low,0.0
+2322,Price Convergence Low,0.0
+2323,Price Convergence Low,0.0
+2324,Zero-Price RES,513.5987824340999
+2325,Zero-Price RES,418.3048274733621
+2326,Zero-Price RES,346.0389457009645
+2327,Zero-Price RES,281.03628314350954
+2328,Zero-Price RES,224.8794238304424
+2329,Zero-Price RES,190.05062022080983
+2330,Zero-Price RES,0.0
+2331,Zero-Price RES,601.9164936260421
+2332,Zero-Price RES,176.93915205372184
+2333,Zero-Price RES,160.5005148479836
+2334,Zero-Price RES,123.64155765711098
+2335,Zero-Price RES,91.75677839919511
+2336,Zero-Price RES,78.77022124860787
+2337,Zero-Price RES,83.39334511288621
+2338,Zero-Price RES,165.41534887741705
+2339,Zero-Price RES,329.63791732159723
+2340,Zero-Price RES,419.6229967419929
+2341,Zero-Price RES,438.0069977079511
+2342,Zero-Price RES,410.0804207347087
+2343,Zero-Price RES,500.5900005
+2344,Zero-Price RES,0.0
+2345,Zero-Price RES,310.9122557917923
+2346,Zero-Price RES,509.7443898178709
+2347,Zero-Price RES,614.943030395778
+2348,Zero-Price RES,644.5830303957781
+2349,Zero-Price RES,0.0
+2350,Zero-Price RES,0.0
+2351,Zero-Price RES,0.0
+2352,Zero-Price RES,505.3939457030908
+2353,Zero-Price RES,13.815603658897544
+2354,Zero-Price RES,174.23089665102407
+2355,Zero-Price RES,173.31325248818894
+2356,Zero-Price RES,14.955296933709178
+2357,Zero-Price RES,0.0
+2358,Zero-Price RES,564.422124312354
+2359,Zero-Price RES,0.0
+2360,Zero-Price RES,0.0
+2361,Zero-Price RES,0.0
+2362,Zero-Price RES,469.7968929791084
+2363,Zero-Price RES,0.0
+2364,Zero-Price RES,0.0
+2365,Zero-Price RES,0.0
+2366,Zero-Price RES,374.65006374122015
+2367,Zero-Price RES,603.904039580199
+2368,Zero-Price RES,0.0
+2369,Price Convergence Low,0.0
+2370,Price Convergence Low,0.0
+2371,Price Convergence Low,0.0
+2372,Price Convergence Low,0.0
+2373,Price Convergence Low,0.0
+2374,Price Convergence Low,0.0
+2375,Price Convergence Low,0.0
+2376,Price Convergence Low,0.0
+2377,Zero-Price,0.0
+2378,Zero-Price,0.0
+2379,Price Convergence Low,0.0
+2380,Zero-Price,0.0
+2381,Price Convergence Low,0.0
+2382,Price Convergence Low,0.0
+2383,Zero-Price,0.0
+2384,Zero-Price,0.0
+2385,Price Convergence Low,0.0
+2386,Price Convergence Low,0.0
+2387,Price Convergence Low,0.0
+2388,Price Convergence Low,0.0
+2389,Zero-Price,0.0
+2390,Zero-Price,0.0
+2391,Zero-Price,0.0
+2392,Zero-Price,0.0
+2393,Price Convergence Low,0.0
+2394,Price Convergence Low,0.0
+2395,Zero-Price,0.0
+2396,Zero-Price,0.0
+2397,Price Convergence Low,0.0
+2398,Zero-Price,0.0
+2399,Price Convergence Low,0.0
+2400,Price Convergence Low,0.0
+2401,Price Convergence Low,0.0
+2402,Price Convergence Low,0.0
+2403,Price Convergence Low,0.0
+2404,Price Convergence Low,0.0
+2405,Price Convergence Low,0.0
+2406,Zero-Price,0.0
+2407,Price Convergence High,0.0
+2408,Price Convergence Low,0.0
+2409,Price Convergence Middle,0.0
+2410,Zero-Price,0.0
+2411,Zero-Price,0.0
+2412,Zero-Price,0.0
+2413,Zero-Price,0.0
+2414,Price Convergence Middle,0.0
+2415,Zero-Price,0.0
+2416,Price Convergence Middle,0.0
+2417,Price Convergence Low,0.0
+2418,Zero-Price,0.0
+2419,Zero-Price,0.0
+2420,Price Convergence Low,0.0
+2421,Price Convergence Low,0.0
+2422,Zero-Price,0.0
+2423,Zero-Price,0.0
+2424,Zero-Price,0.0
+2425,Zero-Price,0.0
+2426,Price Convergence Low,0.0
+2427,Zero-Price,0.0
+2428,Price Convergence Low,0.0
+2429,Price Convergence Low,0.0
+2430,Zero-Price,0.0
+2431,Price Convergence Low,0.0
+2432,Zero-Price,0.0
+2433,Zero-Price,0.0
+2434,Zero-Price,0.0
+2435,Price Convergence Low,0.0
+2436,Price Convergence Low,0.0
+2437,Zero-Price,0.0
+2438,Price Convergence Low,0.0
+2439,Zero-Price RES,244.75484505862755
+2440,Zero-Price RES,0.0
+2441,Zero-Price RES,577.8398018735572
+2442,Zero-Price RES,681.193030895778
+2443,Zero-Price RES,738.528030395778
+2444,Zero-Price RES,749.813031395778
+2445,Zero-Price RES,738.0680313957779
+2446,Zero-Price RES,706.688031395778
+2447,Zero-Price RES,680.1880308957781
+2448,Zero-Price RES,662.7730308957781
+2449,Zero-Price RES,0.0
+2450,Zero-Price RES,0.0
+2451,Zero-Price RES,0.0
+2452,Zero-Price RES,0.0
+2453,Zero-Price RES,685.4030313957779
+2454,Zero-Price RES,724.9630308957782
+2455,Zero-Price RES,752.948031395778
+2456,Zero-Price RES,763.3280313957781
+2457,Zero-Price RES,340.1656060904229
+2458,Zero-Price RES,0.0
+2459,Zero-Price RES,2218.6298907441783
+2460,Zero-Price RES,2018.8580148943142
+2461,Zero-Price RES,1360.3389412363347
+2462,Zero-Price RES,1296.818100725445
+2463,Zero-Price RES,0.0
+2464,Zero-Price RES,447.838414314434
+2465,Zero-Price RES,673.983030395778
+2466,Zero-Price RES,739.313031395778
+2467,Zero-Price RES,784.788030395778
+2468,Zero-Price RES,790.7330313957781
+2469,Zero-Price RES,758.353030895778
+2470,Zero-Price RES,704.783031395778
+2471,Zero-Price RES,626.228031395778
+2472,Zero-Price RES,539.253030395778
+2473,Zero-Price RES,322.7806839860543
+2474,Zero-Price RES,208.15143176339157
+2475,Zero-Price,0.0
+2476,Zero-Price,0.0
+2477,Price Convergence Low,0.0
+2478,Zero-Price,0.0
+2479,Price Convergence Low,0.0
+2480,Price Convergence Low,0.0
+2481,Price Convergence Low,0.0
+2482,Zero-Price RES,113.0551291383532
+2483,Zero-Price RES,0.0
+2484,Zero-Price RES,0.0
+2485,Zero-Price RES,0.0
+2486,Zero-Price RES,267.2200005
+2487,Zero-Price,0.0
+2488,Zero-Price,0.0
+2489,Zero-Price,0.0
+2490,Zero-Price,0.0
+2491,Zero-Price,0.0
+2492,Zero-Price,0.0
+2493,Price Convergence Low,0.0
+2494,Zero-Price,0.0
+2495,Zero-Price,0.0
+2496,Price Convergence Low,0.0
+2497,Zero-Price RES,0.0
+2498,Zero-Price RES,671.433030395778
+2499,Zero-Price RES,0.0
+2500,Zero-Price RES,108.0593823772452
+2501,Zero-Price RES,0.0
+2502,Zero-Price RES,155.45422602176484
+2503,Zero-Price RES,306.5879285895479
+2504,Zero-Price RES,419.1743794842097
+2505,Zero-Price RES,824.4586104280096
+2506,Zero-Price RES,906.9404029413214
+2507,Zero-Price RES,481.1677753004394
+2508,Other Price Formation,0.0
+2509,Price Convergence Low,0.0
+2510,Price Convergence Low,0.0
+2511,Price Convergence Low,0.0
+2512,Zero-Price RES,542.5500044719062
+2513,Zero-Price RES,274.44707001408534
+2514,Zero-Price RES,0.0
+2515,Price Convergence Low,0.0
+2516,Price Convergence Low,0.0
+2517,Price Convergence Low,0.0
+2518,Price Convergence Low,0.0
+2519,Price Convergence Low,0.0
+2520,Price Convergence Low,0.0
+2521,Price Convergence Low,0.0
+2522,Zero-Price RES,0.0
+2523,Zero-Price RES,499.28078006160047
+2524,Zero-Price RES,628.1080308957781
+2525,Zero-Price RES,0.0
+2526,Zero-Price RES,726.593031395778
+2527,Zero-Price RES,769.278030395778
+2528,Zero-Price RES,806.6180313957781
+2529,Zero-Price RES,0.0
+2530,Zero-Price RES,832.183030895778
+2531,Zero-Price RES,0.0
+2532,Zero-Price RES,0.0
+2533,Zero-Price RES,0.0
+2534,Zero-Price RES,0.0
+2535,Zero-Price RES,0.0
+2536,Zero-Price RES,752.3230308957781
+2537,Zero-Price RES,754.9780308957783
+2538,Zero-Price RES,740.5530303957781
+2539,Zero-Price RES,710.2130313957781
+2540,Zero-Price RES,669.828030395778
+2541,Zero-Price RES,0.0
+2542,Price Convergence Low,0.0
+2543,Price Convergence Low,0.0
+2544,Price Convergence Low,0.0
+2545,Zero-Price RES,0.0
+2546,Zero-Price RES,165.05760003290993
+2547,Zero-Price RES,154.86338545464332
+2548,Zero-Price RES,0.0
+2549,Zero-Price RES,194.7333656319886
+2550,Zero-Price RES,197.8614738033873
+2551,Zero-Price RES,166.94548333244938
+2552,Zero-Price RES,110.5187934232772
+2553,Zero-Price RES,102.6584616751785
+2554,Zero-Price RES,24.799838232404568
+2555,Zero-Price RES,36.94987487771459
+2556,Zero-Price RES,56.11846167154931
+2557,Zero-Price RES,91.45358124429708
+2558,Zero-Price RES,120.5499888136444
+2559,Zero-Price RES,150.66519888162952
+2560,Zero-Price RES,205.3659137291927
+2561,Zero-Price RES,305.97633861147415
+2562,Zero-Price RES,400.4976948426324
+2563,Zero-Price RES,477.6216270810744
+2564,Zero-Price RES,569.0122181464823
+2565,Zero-Price RES,0.0
+2566,Zero-Price RES,0.0
+2567,Zero-Price RES,0.0
+2568,Zero-Price RES,0.0
+2569,Zero-Price RES,0.0
+2570,Zero-Price RES,0.0
+2571,Zero-Price RES,0.0
+2572,Zero-Price RES,0.0
+2573,Zero-Price RES,0.0
+2574,Price Convergence Low,0.0
+2575,Price Convergence Low,0.0
+2576,Price Convergence Low,0.0
+2577,Zero-Price,0.0
+2578,Price Convergence Low,0.0
+2579,Price Convergence Low,0.0
+2580,Price Convergence Low,0.0
+2581,Zero-Price,0.0
+2582,Zero-Price,0.0
+2583,Zero-Price,0.0
+2584,Zero-Price,0.0
+2585,Zero-Price,0.0
+2586,Zero-Price,0.0
+2587,Zero-Price,0.0
+2588,Price Convergence Low,0.0
+2589,Price Convergence Low,0.0
+2590,Price Convergence Low,0.0
+2591,Price Convergence Low,0.0
+2592,Price Convergence Low,0.0
+2593,Price Convergence Low,0.0
+2594,Price Convergence Low,0.0
+2595,Price Convergence Low,0.0
+2596,Price Convergence Low,0.0
+2597,Price Convergence Low,0.0
+2598,Zero-Price,0.0
+2599,Zero-Price,0.0
+2600,Zero-Price,0.0
+2601,Zero-Price,0.0
+2602,Price Convergence Low,0.0
+2603,Price Convergence Low,0.0
+2604,Zero-Price,0.0
+2605,Price Convergence Low,0.0
+2606,Price Convergence Low,0.0
+2607,Price Convergence Low,0.0
+2608,Zero-Price,0.0
+2609,Zero-Price,0.0
+2610,Zero-Price,0.0
+2611,Zero-Price,0.0
+2612,Price Convergence Low,0.0
+2613,Price Convergence Low,0.0
+2614,Zero-Price,0.0
+2615,Zero-Price,0.0
+2616,Price Convergence Low,0.0
+2617,Price Convergence Low,0.0
+2618,Zero-Price,0.0
+2619,Price Convergence Low,0.0
+2620,Price Convergence Low,0.0
+2621,Price Convergence Low,0.0
+2622,Price Convergence Low,0.0
+2623,Zero-Price,0.0
+2624,Zero-Price,0.0
+2625,Price Convergence Low,0.0
+2626,Zero-Price,0.0
+2627,Zero-Price,0.0
+2628,Price Convergence Middle,0.0
+2629,Price Convergence Middle,0.0
+2630,Zero-Price,0.0
+2631,Zero-Price,0.0
+2632,Zero-Price,0.0
+2633,Zero-Price,0.0
+2634,Price Convergence Low,0.0
+2635,Zero-Price,0.0
+2636,Zero-Price,0.0
+2637,Zero-Price,0.0
+2638,Price Convergence Low,0.0
+2639,Price Convergence Low,0.0
+2640,Price Convergence Low,0.0
+2641,Zero-Price,0.0
+2642,Zero-Price,0.0
+2643,Price Convergence Low,0.0
+2644,Price Convergence Low,0.0
+2645,Zero-Price,0.0
+2646,Zero-Price,0.0
+2647,Zero-Price,0.0
+2648,Price Convergence Low,0.0
+2649,Zero-Price,0.0
+2650,Price Convergence Low,0.0
+2651,Zero-Price,0.0
+2652,Zero-Price,0.0
+2653,Price Convergence Low,0.0
+2654,Zero-Price,0.0
+2655,Zero-Price,0.0
+2656,Price Convergence Low,0.0
+2657,Price Convergence Low,0.0
+2658,Price Convergence Low,0.0
+2659,Price Convergence Low,0.0
+2660,Price Convergence Low,0.0
+2661,Zero-Price,0.0
+2662,Price Convergence Low,0.0
+2663,Price Convergence Low,0.0
+2664,Price Convergence Low,0.0
+2665,Price Convergence Low,0.0
+2666,Zero-Price,0.0
+2667,Price Convergence Low,0.0
+2668,Zero-Price,0.0
+2669,Zero-Price,0.0
+2670,Price Convergence Low,0.0
+2671,Zero-Price,0.0
+2672,Zero-Price,0.0
+2673,Zero-Price,0.0
+2674,Price Convergence Low,0.0
+2675,Zero-Price,0.0
+2676,Zero-Price,0.0
+2677,Zero-Price,0.0
+2678,Price Convergence Middle,0.0
+2679,Price Convergence Low,0.0
+2680,Price Convergence Low,0.0
+2681,Price Convergence Low,0.0
+2682,Zero-Price,0.0
+2683,Price Convergence High,0.0
+2684,Zero-Price,0.0
+2685,Zero-Price,0.0
+2686,Zero-Price,0.0
+2687,Price Convergence Low,0.0
+2688,Price Convergence Low,0.0
+2689,Price Convergence Low,0.0
+2690,Zero-Price,0.0
+2691,Zero-Price,0.0
+2692,Zero-Price,0.0
+2693,Zero-Price,0.0
+2694,Price Convergence Low,0.0
+2695,Price Convergence Low,0.0
+2696,Price Convergence Low,0.0
+2697,Price Convergence Low,0.0
+2698,Zero-Price RES,591.4026262140716
+2699,Zero-Price RES,659.2770106769985
+2700,Zero-Price RES,1303.6205947919923
+2701,Zero-Price RES,1542.820001
+2702,Zero-Price RES,1535.533482485687
+2703,Zero-Price RES,839.1927457399249
+2704,Zero-Price RES,857.7028632452799
+2705,Zero-Price RES,445.0673794328444
+2706,Zero-Price RES,845.088030395778
+2707,Zero-Price RES,764.838030395778
+2708,Zero-Price RES,692.923030895778
+2709,Zero-Price RES,605.038030895778
+2710,Zero-Price RES,427.48462394499006
+2711,Zero-Price RES,261.3716280810745
+2712,Zero-Price RES,188.27323556985107
+2713,Zero-Price RES,168.64160825841964
+2714,Zero-Price RES,202.89198471151883
+2715,Zero-Price RES,0.0
+2716,Zero-Price RES,0.0
+2717,Zero-Price RES,0.0
+2718,Zero-Price RES,0.0
+2719,Zero-Price RES,96.42702403561071
+2720,Zero-Price RES,249.4775621235476
+2721,Zero-Price RES,195.28156275309232
+2722,Zero-Price RES,430.5283726209717
+2723,Zero-Price RES,313.38892652870254
+2724,Zero-Price RES,505.4720198833947
+2725,Zero-Price RES,375.49500050000006
+2726,Zero-Price RES,167.66985119349414
+2727,Zero-Price RES,0.0
+2728,Zero-Price RES,733.7580303957781
+2729,Zero-Price RES,698.2380303957781
+2730,Zero-Price RES,648.8430303957781
+2731,Zero-Price RES,588.3280308957782
+2732,Zero-Price RES,431.553236415337
+2733,Zero-Price RES,323.86881294237946
+2734,Zero-Price RES,258.5075726471512
+2735,Zero-Price RES,178.146329351923
+2736,Zero-Price RES,100.32565173634384
+2737,Zero-Price RES,17.9752366379347
+2738,Other Price Formation,0.0
+2739,Other Price Formation,0.0
+2740,Zero-Price RES,0.0
+2741,Zero-Price RES,0.0
+2742,Zero-Price,0.0
+2743,Zero-Price,0.0
+2744,Zero-Price,0.0
+2745,Zero-Price,0.0
+2746,Price Convergence Low,0.0
+2747,Zero-Price,0.0
+2748,Price Convergence Middle,0.0
+2749,Price Convergence Middle,0.0
+2750,Zero-Price,0.0
+2751,Price Convergence Low,0.0
+2752,Price Convergence Low,0.0
+2753,Zero-Price,0.0
+2754,Zero-Price,0.0
+2755,Price Convergence Low,0.0
+2756,Price Convergence Low,0.0
+2757,Price Convergence Low,0.0
+2758,Zero-Price,0.0
+2759,Zero-Price,0.0
+2760,Zero-Price,0.0
+2761,Zero-Price,0.0
+2762,Price Convergence Low,0.0
+2763,Price Convergence Low,0.0
+2764,Price Convergence Low,0.0
+2765,Price Convergence Low,0.0
+2766,Price Convergence Low,0.0
+2767,Price Convergence Low,0.0
+2768,Price Convergence Low,0.0
+2769,Price Convergence Low,0.0
+2770,Price Convergence Low,0.0
+2771,Price Convergence Low,0.0
+2772,Price Convergence Low,0.0
+2773,Price Convergence Low,0.0
+2774,Price Convergence Low,0.0
+2775,Price Convergence Low,0.0
+2776,Price Convergence Low,0.0
+2777,Price Convergence Low,0.0
+2778,Price Convergence Low,0.0
+2779,Price Convergence Low,0.0
+2780,Price Convergence Low,0.0
+2781,Price Convergence Low,0.0
+2782,Price Convergence Low,0.0
+2783,Zero-Price RES,0.0
+2784,Zero-Price RES,671.1730308957781
+2785,Zero-Price RES,0.0
+2786,Zero-Price RES,727.3780308957781
+2787,Zero-Price RES,0.0
+2788,Zero-Price RES,583.0189018939313
+2789,Price Convergence Low,0.0
+2790,Price Convergence Low,0.0
+2791,Price Convergence Low,0.0
+2792,Zero-Price,0.0
+2793,Zero-Price,0.0
+2794,Price Convergence Low,0.0
+2795,Price Convergence Low,0.0
+2796,Zero-Price,0.0
+2797,Price Convergence Low,0.0
+2798,Zero-Price,0.0
+2799,Price Convergence Low,0.0
+2800,Price Convergence Low,0.0
+2801,Price Convergence High,0.0
+2802,Price Convergence Middle,0.0
+2803,Zero-Price,0.0
+2804,Zero-Price,0.0
+2805,Price Convergence Low,0.0
+2806,Price Convergence Low,0.0
+2807,Price Convergence Low,0.0
+2808,Zero-Price,0.0
+2809,Zero-Price,0.0
+2810,Price Convergence Low,0.0
+2811,Zero-Price,0.0
+2812,Zero-Price,0.0
+2813,Zero-Price,0.0
+2814,Zero-Price,0.0
+2815,Price Convergence Low,0.0
+2816,Price Convergence Low,0.0
+2817,Price Convergence Low,0.0
+2818,Price Convergence Middle,0.0
+2819,Price Convergence Middle,0.0
+2820,Price Convergence Middle,0.0
+2821,Zero-Price RES,0.0
+2822,Zero-Price RES,0.0
+2823,Price Convergence Middle,0.0
+2824,Price Convergence Low,0.0
+2825,Price Convergence Low,0.0
+2826,Price Convergence Low,0.0
+2827,Price Convergence Low,0.0
+2828,Price Convergence Low,0.0
+2829,Price Convergence Low,0.0
+2830,Price Convergence Low,0.0
+2831,Price Convergence Low,0.0
+2832,Zero-Price,0.0
+2833,Price Convergence Low,0.0
+2834,Price Convergence Low,0.0
+2835,Price Convergence Low,0.0
+2836,Price Convergence Low,0.0
+2837,Zero-Price,0.0
+2838,Price Convergence Low,0.0
+2839,Price Convergence Low,0.0
+2840,Price Convergence Low,0.0
+2841,Price Convergence Low,0.0
+2842,Price Convergence Middle,0.0
+2843,Price Convergence Middle,0.0
+2844,Price Convergence Middle,0.0
+2845,Price Convergence Middle,0.0
+2846,Price Convergence Low,0.0
+2847,Zero-Price,0.0
+2848,Zero-Price,0.0
+2849,Price Convergence Low,0.0
+2850,Zero-Price,0.0
+2851,Zero-Price,0.0
+2852,Price Convergence Low,0.0
+2853,Zero-Price,0.0
+2854,Zero-Price,0.0
+2855,Zero-Price,0.0
+2856,Price Convergence Low,0.0
+2857,Zero-Price,0.0
+2858,Price Convergence Low,0.0
+2859,Zero-Price,0.0
+2860,Zero-Price RES,0.0
+2861,Zero-Price RES,0.0
+2862,Zero-Price RES,381.8368752089174
+2863,Zero-Price RES,468.8176281151164
+2864,Zero-Price RES,518.0000826233668
+2865,Zero-Price RES,0.0
+2866,Zero-Price RES,0.0
+2867,Zero-Price RES,382.9983443760053
+2868,Zero-Price RES,255.0581996663236
+2869,Zero-Price RES,169.4228229552807
+2870,Zero-Price RES,114.38420754892093
+2871,Zero-Price,0.0
+2872,Zero-Price,0.0
+2873,Price Convergence Low,0.0
+2874,Other Price Formation,0.0
+2875,Price Convergence Low,0.0
+2876,Price Convergence Low,0.0
+2877,Price Convergence Low,0.0
+2878,Price Convergence Low,0.0
+2879,Zero-Price,0.0
+2880,Zero-Price,0.0
+2881,Zero-Price,0.0
+2882,Price Convergence Low,0.0
+2883,Zero-Price,0.0
+2884,Price Convergence Low,0.0
+2885,Zero-Price,0.0
+2886,Price Convergence Low,0.0
+2887,Price Convergence Low,0.0
+2888,Price Convergence Low,0.0
+2889,Zero-Price,0.0
+2890,Zero-Price,0.0
+2891,Price Convergence Middle,0.0
+2892,Price Convergence Middle,0.0
+2893,Zero-Price,0.0
+2894,Price Convergence Middle,0.0
+2895,Zero-Price,0.0
+2896,Zero-Price,0.0
+2897,Price Convergence Low,0.0
+2898,Zero-Price,0.0
+2899,Zero-Price,0.0
+2900,Price Convergence Low,0.0
+2901,Zero-Price,0.0
+2902,Zero-Price,0.0
+2903,Price Convergence Low,0.0
+2904,Zero-Price,0.0
+2905,Price Convergence Low,0.0
+2906,Price Convergence Low,0.0
+2907,Price Convergence Low,0.0
+2908,Price Convergence Low,0.0
+2909,Price Convergence Low,0.0
+2910,Price Convergence Low,0.0
+2911,Price Convergence Low,0.0
+2912,Price Convergence Low,0.0
+2913,Price Convergence Low,0.0
+2914,Price Convergence Low,0.0
+2915,Price Convergence Low,0.0
+2916,Price Convergence Low,0.0
+2917,Price Convergence Middle,0.0
+2918,Price Convergence Middle,0.0
+2919,Price Convergence Middle,0.0
+2920,Price Convergence Low,0.0
+2921,Price Convergence Low,0.0
+2922,Price Convergence Low,0.0
+2923,Price Convergence Low,0.0
+2924,Price Convergence Low,0.0
+2925,Price Convergence Low,0.0
+2926,Price Convergence Low,0.0
+2927,Zero-Price RES,0.0
+2928,Price Convergence Low,0.0
+2929,Price Convergence Low,0.0
+2930,Zero-Price,0.0
+2931,Zero-Price,0.0
+2932,Zero-Price,0.0
+2933,Price Convergence Low,0.0
+2934,Price Convergence Low,0.0
+2935,Price Convergence Low,0.0
+2936,Price Convergence Low,0.0
+2937,Price Convergence Low,0.0
+2938,Zero-Price RES,0.0
+2939,Zero-Price RES,0.0
+2940,Zero-Price RES,0.0
+2941,Zero-Price RES,0.0
+2942,Zero-Price RES,0.0
+2943,Price Convergence Low,0.0
+2944,Price Convergence Low,0.0
+2945,Zero-Price,0.0
+2946,Zero-Price,0.0
+2947,Price Convergence Middle,0.0
+2948,Price Convergence Middle,0.0
+2949,Price Convergence Middle,0.0
+2950,Price Convergence Middle,0.0
+2951,Zero-Price,0.0
+2952,Price Convergence Middle,0.0

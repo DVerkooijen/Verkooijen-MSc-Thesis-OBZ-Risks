@@ -1,0 +1,15 @@
+Metrics,Values
+#Price Collapse Hours,592.0
+Price Collapse Hours [MWh],389150.65072441427
+Curtailment [MWh],720.9042875863189
+#Zero-Priced Hours due to RES,1480.0
+Zero-Priced Hours due to RES [MWh],1862576.6609776688
+Curtailment due to RES [MWh],1519820.859088329
+#Price Convergence Low Hours,734.0
+Price Convergence Low MWh,754905.3600555
+#Price Convergence High Hours,5.0
+Price Convergence High MWh,548.5200030000001
+#Price Convergence Middle Hours,130.0
+Price Convergence Middle MWh,65115.555003
+#Other Price Formation Hours,11.0
+Other Price Formation MWh,13626.8400015
