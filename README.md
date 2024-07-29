@@ -1,7 +1,7 @@
-# MSc Thesis "Unlocking Offshore Hybrid Projects: Modelling Price and Volume Risks and their Mitigation Measures for Hybrid Offshore Wind Projects in Offshore Bidding Zones under Flow-Based Market Coupling"
+# MSc Thesis "Unlocking Offshore Hybrid Projects: Modelling Price and Volume Risks and their Mitigation Measures for Offshore Hybrid Projects in Offshore Bidding Zones under Flow-Based Market Coupling"
 
 ## Background
-This model was developed for the MSc Thesis "Unlocking Offshore Hybrid Projects: Modelling Price and Volume Risks and their Mitigation Measures for Hybrid Offshore Wind Projects in Offshore Bidding Zones under Flow-Based Market Coupling" by Daan Verkooijen, in fulfillment of the Master of Science degree in Complex Systems Engineering and Management at Delft University of Technology (Faculty of Technology, Policy and Management).
+This model was developed for the MSc Thesis "Unlocking Offshore Hybrid Projects: Modelling Price and Volume Risks and their Mitigation Measures for Offshore Hybrid Projects in Offshore Bidding Zones under Flow-Based Market Coupling" by Daan Verkooijen, in fulfillment of the Master of Science degree in Complex Systems Engineering and Management at Delft University of Technology (Faculty of Technology, Policy and Management).
 
 The mathematical model is adapted from Kenis et al. (2023), available at [GitHub](https://github.com/kbruninx/OBZvsHM), and extended for the thesis' objectives (see the full explanation in the MSc thesis, published at the [TU Delft Repository](https://repository.tudelft.nl/)).
 
